@@ -3,11 +3,11 @@
 
 ## Team Skills Inventory
 
-| Member | Technical Skills                       | Design Skills   | Business/Communication Skills    |
-| ------ | -------------------------------------- | --------------- | -------------------------------- |
-| Izumi  | Basic Programming, Technology Research | Canva           | Research, Analysis, Presentation |
-| Jack   | HTML, CSS, JavaScript, GitHub          | Basic UI Design | Team Coordination                |
-| Shoji  | GitHub, Documentation Tools            | Figma, Canva    | Documentation, Communication     |
+| Member             | Technical Skills                       | Design Skills   | Business/Communication Skills    |
+| ------------------ | -------------------------------------- | --------------- | -------------------------------- |
+| Phone Myat Khaung  | Basic Programming, Technology Research | Canva           | Research, Analysis, Presentation |
+| Thura Aung Naing   | HTML, CSS, JavaScript, GitHub          | Basic UI Design | Team Coordination                |
+| Thia Kyaw Lin      | GitHub, Documentation Tools            | Figma, Canva    | Documentation, Communication     |
 
 ## Team Working Agreement
 
