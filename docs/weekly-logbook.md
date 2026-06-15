@@ -20,7 +20,8 @@
 
 ### Evidence of Work
 - GitHub repository link:
-- Screenshot:
+- Screenshot:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99ada439-375f-4198-94d8-f90a133b3602" />
+
 - File created:
 - Commit link:
 
