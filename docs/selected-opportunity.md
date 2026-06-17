@@ -1,12 +1,15 @@
 # Lab-2 Opportunity Selection Decision
 
 ## NUF Scoring Results
+The Smart Assignment Tracker received the highest NUF score among the team's ideas.
 
-| Idea                               | New | Useful | Feasible | Total |
-| ---------------------------------- | --- | ------ | -------- | ----- |
-| Smart Assignment Tracker           | 4   | 5      | 5        | 14    |
-| Smart Campus Lost-and-Found System | 4   | 4      | 4        | 12    |
-| SME Inventory Management System    | 3   | 4      | 4        | 11    |
+New: 4/5
+
+Useful: 5/5
+
+Feasible: 5/5
+
+Total: 14/15
 
 ## Is the Highest Score Realistic?
 
