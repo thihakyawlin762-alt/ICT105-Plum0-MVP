@@ -78,7 +78,8 @@ We selected this opportunity because assignment deadlines are often scattered ac
 * Opportunity scan file: /docs/opportunity-scan.md
 * NUF scoring file: /data/opportunity-scoring.xlsx
 * Selected opportunity file: /docs/selected-opportunity.md
-* GitHub issue screenshot:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e57d916-6e79-474b-83f5-b5d4c94d6a29" />
+* GitHub issue screenshot:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f2f4ada-ad20-476c-9372-7d80ae6301c4" />
+
 
 * Commit link:(https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP.git)
 
