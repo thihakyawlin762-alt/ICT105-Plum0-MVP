@@ -9,3 +9,8 @@
 ## Technology Feasibility Mapping
 
 <img width="942" height="144" alt="Screenshot 2569-06-17 at 11 01 53" src="https://github.com/user-attachments/assets/ceb7d977-3a2f-40d1-b600-6d9ef99e3fc5" />
+
+## NUF Scoring Matrix
+
+[NUF scoring matrix.xlsx](https://github.com/user-attachments/files/29030300/NUF.scoring.matrix.xlsx)
+
