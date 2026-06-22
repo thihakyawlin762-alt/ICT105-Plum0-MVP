@@ -1,5 +1,5 @@
 # Team Profile
-<img width="1280" height="411" alt="IMAGE 2026-06-15 10:34:34" src="https://github.com/user-attachments/assets/85150975-5c23-4e61-8e05-f8f9f45ba1b7" />
+<img width="1482" height="480" alt="727988908_1522275199337400_1708574907315122946_n" src="https://github.com/user-attachments/assets/f2abacec-b669-4cf7-b750-882cf809784c" />
 
 ## Team Skills Inventory
 
