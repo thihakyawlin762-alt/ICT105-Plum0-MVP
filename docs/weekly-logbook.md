@@ -138,7 +138,8 @@ Although useful, the problem occurs less frequently than assignment tracking. In
 * Raw responses file: /data/raw-responses.xlsx
 * Assumption-evidence table: /docs/assumption-evidence-table.md
 * Customer discovery summary: /docs/customer-discovery-summary.md
-* GitHub issue screenshot: [Insert Screenshot]
+* GitHub issue screenshot:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3a33b4d-285a-4aff-a3fe-ee3e0872e7a1" />
+
 * Commit link: [Insert Commit Link]
 
 ### Plan for Lab 04
