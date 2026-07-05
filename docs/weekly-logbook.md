@@ -154,7 +154,7 @@ Analyze customer discovery results and develop a clear value proposition. Prepar
 - Lab: Lab 04 – User Persona, Requirements, and User Stories
 - Group Name: Plum0 MVP
 - Repository Link: https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP.git
-- Date: (Today's lab date)
+- Date: (5th July 2026)
 
 ---
 
@@ -167,7 +167,7 @@ Following the instructor's arrangement, Shaurya Sood joined the team starting fr
 
 | Member Name | Contribution | GitHub Evidence (Commit/Issue/PR Link) |
 |---|---|---|
-| Phone Myat Khaung | Defined system requirements, MVP feature list, coordinated project planning and requirement traceability. | Commit / Issue Link |
+| Phone Myat Khaung | Defined system requirements, MVP feature list, coordinated project planning and requirement traceability. | https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP/blob/a080b935ef4cc33d85b8b18a997ba445a7b2713f/docs/system-requirements.md |
 | Thiha Kyaw Lin | Created user flow, use case diagram, flowchart, updated README and project documentation. | Commit / Issue Link |
 | Thura Aung Naing | Prepared user stories with acceptance criteria and assisted with repository management. | Commit / Issue Link |
 | Shaurya Sood | Created user persona, reviewed documentation, and supported project documentation updates. | Commit / Issue Link |
