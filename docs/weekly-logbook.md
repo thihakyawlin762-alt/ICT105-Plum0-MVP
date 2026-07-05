@@ -167,10 +167,10 @@ Following the instructor's arrangement, Shaurya Sood joined the team starting fr
 
 | Member Name | Contribution | GitHub Evidence (Commit/Issue/PR Link) |
 |---|---|---|
-| Phone Myat Khaung | Defined system requirements, MVP feature list, coordinated project planning and requirement traceability. | https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP/blob/a080b935ef4cc33d85b8b18a997ba445a7b2713f/docs/system-requirements.md |
-| Thiha Kyaw Lin | Created user flow, use case diagram, flowchart, updated README and project documentation. | Commit / Issue Link |
-| Thura Aung Naing | Prepared user stories with acceptance criteria and assisted with repository management. | Commit / Issue Link |
-| Shaurya Sood | Created user persona, reviewed documentation, and supported project documentation updates. | Commit / Issue Link |
+| Phone Myat Khaung | Defined system requirements, MVP feature list, coordinated project planning and requirement traceability. | https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP/blob/a080b935ef4cc33d85b8b18a997ba445a7b2713f/docs/system-requirements.md https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP/blob/935f161fbdd53ec678a77f120ba3f1220dec48c9/docs/mvp-feature-list.md|
+| Thiha Kyaw Lin | Created user flow, use case diagram, flowchart, updated README and project documentation. | https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP/blob/935f161fbdd53ec678a77f120ba3f1220dec48c9/diagrams/Business%20Flow%20Chart%20Diagram.png https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP/blob/935f161fbdd53ec678a77f120ba3f1220dec48c9/diagrams/README.md https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP/blob/935f161fbdd53ec678a77f120ba3f1220dec48c9/diagrams/Use%20case%20diagram.png https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP/blob/935f161fbdd53ec678a77f120ba3f1220dec48c9/diagrams/User%20Flow%20diagram.png |
+| Thura Aung Naing | Prepared user stories with acceptance criteria and assisted with repository management. | https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP/blob/935f161fbdd53ec678a77f120ba3f1220dec48c9/docs/user-stories.md |
+| Shaurya Sood | Created user persona, reviewed documentation, updated README.md and supported project documentation updates. | https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP/blob/935f161fbdd53ec678a77f120ba3f1220dec48c9/docs/user-persona.md https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP/blob/935f161fbdd53ec678a77f120ba3f1220dec48c9/README.md |
 
 ---
 
@@ -206,8 +206,8 @@ Following the instructor's arrangement, Shaurya Sood joined the team starting fr
 
 | Task | Owner | Deadline | GitHub Issue |
 |---|---|---|---|
-| Complete interactive prototype screens | Thiha Kyaw Lin | Before Lab 05 | Issue # |
-| Implement core prototype functionality | Thura Aung Naing | Before Lab 05 | Issue # |
-| Review requirements and MVP implementation | Phone Myat Khaung | Before Lab 05 | Issue # |
-| Review documentation and support repository updates | Shaurya Sood | Before Lab 05 | Issue # |
+| Complete interactive prototype screens | Thiha Kyaw Lin | Before Lab 05 | Issue 14 |
+| Implement core prototype functionality | Thura Aung Naing | Before Lab 05 | Issue 12,15 |
+| Review requirements and MVP implementation | Phone Myat Khaung | Before Lab 05 | Issue 13 |
+| Review documentation and support repository updates | Shaurya Sood | Before Lab 05 | Issue 16,17 |
 
