@@ -115,7 +115,6 @@ The primary target user is university students who manage multiple courses and a
 - User Flow Diagram: /diagrams/user-flow.png
 - Use Case Diagram: /diagrams/use-case-diagram.png
 - System Flowchart: /diagrams/flowchart.png
-- Requirement Traceability Matrix: /diagrams/requirement-traceability.png
 
 ---
 
