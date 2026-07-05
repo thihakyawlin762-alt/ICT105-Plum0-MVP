@@ -7,7 +7,7 @@
 | 6805233 | Phone Myat Khaung | Product Manager & Team Leader | Define project vision and problem statement, identify target users, conduct customer validation, analyze evidence, define system requirements, prioritize MVP features, coordinate team progress, and guide overall project direction. |
 | 6806802 | Thiha Kyaw Lin | UX/UI Designer & Documentation Lead | Design user interface layouts and wireframes, create user flow, use case, and flowchart diagrams, maintain README, update weekly logbook, and organize project documentation for submission. |
 | 6806803 | Thura Aung Naing | Technical Lead | Manage the GitHub repository and folder structure, support prototype development, implement technical features, maintain project files, and make technical implementation decisions. |
-| 0000000 | Shaurya Sood | Documentation & Research Support | Assist with user persona creation, review documentation, proofread project files, support evidence organization, and contribute to GitHub documentation and repository updates. |
+| 6806720 | Shaurya Sood | Documentation & Research Support | Assist with user persona creation, review documentation, proofread project files, support evidence organization, and contribute to GitHub documentation and repository updates. |
 
 
 # Team Skills Inventory
