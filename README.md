@@ -61,3 +61,69 @@ University students often struggle to keep track of assignment deadlines because
 ## Decision for Next Step
 
 Based on the evidence collected, our team will continue with the Smart Assignment Tracker project. The problem appears to be real, common, and relevant to university students. For the next phase, we will focus on designing an MVP that provides a centralized dashboard for assignment tracking and deadline reminders.
+
+# Lab 04: User Persona, Requirements, and User Stories
+
+## Primary Target User
+
+The primary target user is university students who manage multiple courses and assignments. They often receive assignment information from different platforms such as LMS, email, chat groups, and lecturer announcements, making it difficult to keep track of deadlines.
+
+---
+
+## Persona Summary
+
+- Persona Name: Alex, Second-Year University Student
+- User Type: University Student
+- Main Goal: Organize all assignments in one place and avoid missing deadlines.
+- Main Pain Point: Assignment information is scattered across multiple platforms, causing confusion and missed deadlines.
+- Current Workaround: Uses notebooks, phone reminders, screenshots, chat history, and personal notes to keep track of assignments.
+
+---
+
+## Key Requirements
+
+| Req ID | Requirement | Priority | Related Evidence |
+|---|---|---|---|
+| FR-01 | Display a homepage introducing the Smart Assignment Tracker and its purpose. | Must | Students wanted one centralized platform. |
+| FR-03 | Allow students to add assignment information. | Must | Students currently record assignments manually. |
+| FR-05 | Display all assignments in a dashboard. | Must | Students need an overview of upcoming deadlines. |
+| FR-06 | Allow searching and filtering assignments. | Should | Students reported difficulty finding assignment information quickly. |
+| FR-08 | Allow students to track assignment status. | Must | Students wanted an easier way to monitor assignment progress. |
+| NFR-01 | The system shall provide a simple and easy-to-use interface. | Must | Users preferred a straightforward and organized system. |
+
+---
+
+## MVP Feature Scope
+
+| Feature | Priority | Included in Final Prototype? |
+|---|---|---|
+| Homepage / Landing Page | Must | Yes |
+| Student Login | Must | Yes |
+| Assignment Dashboard | Must | Yes |
+| Add Assignment | Must | Yes |
+| Edit/Delete Assignment | Must | Yes |
+| Search & Filter Assignments | Should | Yes |
+| Assignment Details | Should | Yes |
+| Assignment Status Tracking | Should | Yes |
+| Reminder Notifications | Could | No |
+| Dashboard Analytics | Could | No |
+
+---
+
+## Diagram Links
+
+- User Flow Diagram: /diagrams/user-flow.png
+- Use Case Diagram: /diagrams/use-case-diagram.png
+- System Flowchart: /diagrams/flowchart.png
+- Requirement Traceability Matrix: /diagrams/requirement-traceability.png
+
+---
+
+## GitHub Contribution Evidence
+
+All team members contributed to the repository through GitHub commits, issues, documentation updates, diagrams, or project management activities.
+
+- Phone Myat Khaung – Project planning, system requirements, MVP feature planning, and project coordination.
+- Thiha Kyaw Lin – User flow, use case diagram, system flowchart, README maintenance, and documentation.
+- Thura Aung Naing – Technical support, GitHub repository management, and prototype development.
+- Shaurya Sood – User persona creation, documentation review, proofreading, and README updates.
