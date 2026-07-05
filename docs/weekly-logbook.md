@@ -146,3 +146,68 @@ Although useful, the problem occurs less frequently than assignment tracking. In
 
 Analyze customer discovery results and develop a clear value proposition. Prepare MVP planning, feature prioritization, and initial prototype concepts for the Smart Assignment Tracker.
 
+
+# Lab 04 - Weekly Logbook
+
+## Group Information
+- Course: ICT105 Fundamental Technology Entrepreneurship
+- Lab: Lab 04 – User Persona, Requirements, and User Stories
+- Group Name: Plum0 MVP
+- Repository Link: https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP.git
+- Date: (Today's lab date)
+
+---
+
+## Team Update
+Following the instructor's arrangement, Shaurya Sood joined the team starting from Lab 04. The original Lab 01–Lab 03 work was completed by the initial three members. Beginning with Lab 04, project tasks and GitHub contributions are shared among all four members.
+
+---
+
+## 1. Work Completed Today
+
+| Member Name | Contribution | GitHub Evidence (Commit/Issue/PR Link) |
+|---|---|---|
+| Phone Myat Khaung | Defined system requirements, MVP feature list, coordinated project planning and requirement traceability. | Commit / Issue Link |
+| Thiha Kyaw Lin | Created user flow, use case diagram, flowchart, updated README and project documentation. | Commit / Issue Link |
+| Thura Aung Naing | Prepared user stories with acceptance criteria and assisted with repository management. | Commit / Issue Link |
+| Shaurya Sood | Created user persona, reviewed documentation, and supported project documentation updates. | Commit / Issue Link |
+
+---
+
+## 2. Main Decisions
+
+- Primary target user: University students who need a better way to organize assignments and track deadlines.
+- Main persona: A university student managing multiple courses and assignments who often misses deadlines due to scattered information.
+- Most important problem: Assignment information is spread across multiple platforms, making it difficult for students to stay organized.
+- Must-have requirements: User login, assignment management, dashboard, search/filter, assignment status tracking, and data validation.
+- Features included in MVP: Homepage, login, assignment dashboard, add/edit/delete assignment, search/filter, assignment details, assignment status.
+- Features postponed: Reminder notifications, calendar integration, email notifications, dashboard analytics, AI recommendations.
+
+---
+
+## 3. Requirement Changes / Clarifications
+
+- Finalized the primary user as university students.
+- Refined the functional requirements based on Lab 03 customer evidence.
+- Prioritized features using the MoSCoW method.
+- Ensured every MVP feature is traceable to user evidence and system requirements.
+
+---
+
+## 4. Problems Encountered
+
+- Technical problem: Determining which features were realistic to implement within the semester.
+- Team coordination problem: Redistributing project responsibilities after a new member joined the team in Lab 04.
+- Evidence/requirement problem: Balancing user requests with the limited scope of the MVP.
+
+---
+
+## 5. Next Actions Before Lab 05
+
+| Task | Owner | Deadline | GitHub Issue |
+|---|---|---|---|
+| Complete interactive prototype screens | Thiha Kyaw Lin | Before Lab 05 | Issue # |
+| Implement core prototype functionality | Thura Aung Naing | Before Lab 05 | Issue # |
+| Review requirements and MVP implementation | Phone Myat Khaung | Before Lab 05 | Issue # |
+| Review documentation and support repository updates | Shaurya Sood | Before Lab 05 | Issue # |
+
