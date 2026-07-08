@@ -130,3 +130,13 @@ User Flow Diagrams:
 
 * /diagrams/student-user-flow.png
 * /diagrams/lecturer-admin-user-flow.png
+
+### Lab 06 Diagram File Notes
+
+For Lab 06, the **System Architecture** and **Data Flow** diagrams are provided as **Mermaid (`.mmd`) source files**.
+
+* `diagrams/system-architecture.mmd`
+* `diagrams/data-flow.mmd`
+
+Mermaid files were chosen because they are easier to maintain, edit, and update throughout the semester while keeping the diagrams under version control in the GitHub repository. These source files represent the same system architecture and data flow used by the Smart Assignment Tracker prototype and can be exported to PNG whenever needed.
+
