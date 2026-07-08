@@ -158,33 +158,31 @@ User Flow Diagram:
 
 All team members contributed to the same GitHub repository through documentation, wireframe design, prototype development, repository management, and project coordination. Individual contributions are recorded through GitHub commits, project documentation, and the weekly logbook.
 
-# README Update - Lab 05
+# Lab 06: Business Model Canvas and Technical Architecture
 
-## Lab 05: Product Concept and UI/UX Wireframe
+## Lab 06 Summary
 
-### Product Concept
+Lab 06 focused on defining how the Smart Assignment Tracker creates value and how it will be technically implemented. Our group developed the Business Model Canvas, Feature-Value Mapping, Technical Architecture, Data Structure, System Architecture Diagram, and Data Flow Diagram. These outputs provide a clear roadmap for building the final prototype while ensuring consistency with the Functional Requirements (FR), User Stories (US), MVP features, and wireframes completed in previous labs.
 
-The Smart Assignment Tracker is a web-based application designed for university students to manage their assignments in one place. It helps students organize coursework, monitor deadlines, track assignment progress, and receive reminders for upcoming submissions. The system also provides a Lecturer/Administrator module to monitor assignment records and manage assignment status. The goal is to reduce missed deadlines, improve organization, and simplify assignment management throughout the semester.
+## Files Added or Updated
 
-### Requirement-Driven Screens
+* [Business Model Canvas](docs/business-model-canvas.md)
+* [Feature-Value Mapping](docs/feature-value-mapping.md)
+* [Technical Architecture](docs/technical-architecture.md)
+* [Data Structure](docs/data-structure.md)
+* [System Architecture Diagram](diagrams/system-architecture.png)
+* [System Architecture Source](diagrams/system-architecture.mmd)
+* [Data Flow Diagram](diagrams/data-flow.png)
+* [Data Flow Source](diagrams/data-flow.mmd)
+* [Assignment Sample Dataset](data/assignment-sample-records.csv)
+* [Customer Segments Dataset](data/customer-segments.csv)
+* [Weekly Logbook](docs/weekly-logbook.md)
 
-| Screen                                | Related Requirement IDs | Wireframe File              |
-| ------------------------------------- | ----------------------- | --------------------------- |
-| Homepage / Landing                    | FR-01, FR-02            | /wireframes/homepage.png    |
-| Input / Submission Form               | FR-03, FR-10, FR-11     | /wireframes/input-form.png  |
-| Assignment Records / Information List | FR-05, FR-06            | /wireframes/record-list.png |
-| Assignment Detail View                | FR-07, FR-08            | /wireframes/detail-view.png |
-| Dashboard / Summary                   | FR-12                   | /wireframes/dashboard.png   |
-| Lecturer / Administrator View         | FR-09, FR-08            | /wireframes/admin-view.png  |
+## Technical Direction
 
-### User Flow
+The Smart Assignment Tracker prototype is implemented as a frontend web application using HTML, CSS, and JavaScript. Assignment data is managed using LocalStorage and sample datasets to simulate system behavior without requiring a backend database. This approach matches the team's technical skills, fits the semester timeline, and supports all required MVP features.
 
-The project includes separate Student and Lecturer/Administrator user flows to clearly represent how each user interacts with the system. The diagrams illustrate the navigation between major screens and demonstrate how the application supports assignment management while maintaining traceability to the system requirements and user stories.
+## Final Prototype Connection
 
-User Flow Diagram:
+The Business Model Canvas defines how the Smart Assignment Tracker delivers value to students and lecturers. The Feature-Value Mapping ensures that every MVP feature is connected to the Functional Requirements (FR) and User Stories (US). The Technical Architecture, Data Structure, System Architecture Diagram, Data Flow Diagram, and sample datasets provide the implementation roadmap for the prototype. Together with the documents developed in Labs 03, 04, and 05, these outputs ensure that the final prototype remains requirement-driven, technically consistent, and aligned with the project's objectives.
 
-* /diagrams/user-flow.png
-
-### Team Contribution
-
-All team members contributed to the same GitHub repository through documentation, wireframe design, prototype development, repository management, and project coordination. Individual contributions are recorded through GitHub commits, project documentation, and the weekly logbook.
