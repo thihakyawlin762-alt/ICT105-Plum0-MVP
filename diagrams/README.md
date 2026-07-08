@@ -109,3 +109,24 @@ diagrams/
 │── user-flow.png
 │── use-case-diagram.png
 └── business-flowchart.png
+
+# Lab 05 User Flow
+
+The original Lab 04 user flow diagram was replaced and updated for Lab 05 to better represent the Smart Assignment Tracker system and its different user roles.
+
+The updated user flow is separated into two diagrams:
+
+1. *Student User Flow*
+
+   * Shows the student's journey from login, viewing the dashboard, adding assignments, managing assignments, tracking status, and logging out.
+
+2. *Lecturer / Administrator User Flow*
+
+   * Shows the lecturer's workflow for viewing assignment records, managing assignment information, updating assignment status, and maintaining assignment records.
+
+This separation improves clarity by showing the different responsibilities of students and lecturers/administrators.
+
+User Flow Diagrams:
+
+* /diagrams/student-user-flow.png
+* /diagrams/lecturer-admin-user-flow.png
