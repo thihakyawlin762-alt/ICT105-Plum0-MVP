@@ -1,0 +1,11 @@
+flowchart TD
+    A[Student enters assignment information] --> B{Input validation}
+    B -->|Valid| C[Save assignment]
+    B -->|Invalid| D[Display validation error]
+    C --> E[Display success message]
+    C --> F[Assignment List]
+    F --> G[Search / Filter Assignments]
+    F --> H[Assignment Detail]
+    H --> I[Lecturer / Administrator updates assignment status]
+    I --> J[Updated assignment record]
+    J --> K[Dashboard / Summary]
