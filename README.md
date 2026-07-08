@@ -157,3 +157,34 @@ User Flow Diagram:
 ### Team Contribution
 
 All team members contributed to the same GitHub repository through documentation, wireframe design, prototype development, repository management, and project coordination. Individual contributions are recorded through GitHub commits, project documentation, and the weekly logbook.
+
+# README Update - Lab 05
+
+## Lab 05: Product Concept and UI/UX Wireframe
+
+### Product Concept
+
+The Smart Assignment Tracker is a web-based application designed for university students to manage their assignments in one place. It helps students organize coursework, monitor deadlines, track assignment progress, and receive reminders for upcoming submissions. The system also provides a Lecturer/Administrator module to monitor assignment records and manage assignment status. The goal is to reduce missed deadlines, improve organization, and simplify assignment management throughout the semester.
+
+### Requirement-Driven Screens
+
+| Screen                                | Related Requirement IDs | Wireframe File              |
+| ------------------------------------- | ----------------------- | --------------------------- |
+| Homepage / Landing                    | FR-01, FR-02            | /wireframes/homepage.png    |
+| Input / Submission Form               | FR-03, FR-10, FR-11     | /wireframes/input-form.png  |
+| Assignment Records / Information List | FR-05, FR-06            | /wireframes/record-list.png |
+| Assignment Detail View                | FR-07, FR-08            | /wireframes/detail-view.png |
+| Dashboard / Summary                   | FR-12                   | /wireframes/dashboard.png   |
+| Lecturer / Administrator View         | FR-09, FR-08            | /wireframes/admin-view.png  |
+
+### User Flow
+
+The project includes separate Student and Lecturer/Administrator user flows to clearly represent how each user interacts with the system. The diagrams illustrate the navigation between major screens and demonstrate how the application supports assignment management while maintaining traceability to the system requirements and user stories.
+
+User Flow Diagram:
+
+* /diagrams/user-flow.png
+
+### Team Contribution
+
+All team members contributed to the same GitHub repository through documentation, wireframe design, prototype development, repository management, and project coordination. Individual contributions are recorded through GitHub commits, project documentation, and the weekly logbook.
