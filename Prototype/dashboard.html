@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Dashboard | Smart Assignment Tracker</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+</head>
+
+<body>
+
+<div class="dashboard">
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+
+        <div class="sidebar-logo">
+
+    <img src="assets/logo/logo.png" alt="Logo">
+
+    <h2>
+        Smart<br>
+        Assignment<br>
+        Tracker
+    </h2>
+
+</div>
+<ul>
+
+    <li class="active">
+        <a href="dashboard.html">
+            <i class="fa-solid fa-house"></i>
+            Dashboard
+        </a>
+    </li>
+
+    <li>
+        <a href="add-assignment.html">
+            <i class="fa-solid fa-plus"></i>
+            Add Assignment
+        </a>
+    </li>
+
+    <li>
+        <a href="search.html">
+            <i class="fa-solid fa-magnifying-glass"></i>
+            Search
+        </a>
+    </li>
+
+    <li>
+        <a href="completed.html">
+            <i class="fa-solid fa-circle-check"></i>
+            Completed
+        </a>
+    </li>
+
+    <li>
+    <a href="lecturer-dashboard.html">
+        <i class="fa-solid fa-chalkboard-user"></i>
+        Lecturer Dashboard
+    </a>
+</li>
+
+
+    <li>
+        <a href="login.html">
+            <i class="fa-solid fa-right-from-bracket"></i>
+            Logout
+        </a>
+    </li>
+
+</ul>
+
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+
+<!-- Dashboard Header -->
+
+<div class="dashboard-header">
+
+    <div>
+
+        <h1>Welcome Back 👋</h1>
+
+        <p>
+            Here's an overview of your assignments.
+        </p>
+
+    </div>
+
+    <div class="header-icons">
+
+    <div class="notification-wrapper">
+
+        <i class="fa-solid fa-bell" id="notificationBell"></i>
+
+        <div class="notification-dropdown" id="notificationDropdown">
+
+            <h3>Notifications</h3>
+
+            <div id="notificationList">
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <i class="fa-solid fa-user-circle"></i>
+
+</div>
+
+</div>
+
+<!-- Statistics -->
+
+<div class="stats-container">
+
+    <div class="stat-card">
+
+        <i class="fa-solid fa-book"></i>
+
+        <h3>Total Assignments</h3>
+
+        <h2>12</h2>
+
+    </div>
+
+    <div class="stat-card">
+
+        <i class="fa-solid fa-hourglass-half"></i>
+
+        <h3>Pending</h3>
+
+        <h2>7</h2>
+
+    </div>
+
+    <div class="stat-card">
+
+        <i class="fa-solid fa-circle-check"></i>
+
+        <h3>Completed</h3>
+
+        <h2>5</h2>
+
+    </div>
+
+    <div class="stat-card">
+
+        <i class="fa-solid fa-calendar-days"></i>
+
+        <h3>Due This Week</h3>
+
+        <h2>3</h2>
+
+    </div>
+
+</div>
+
+<!-- =========================
+     RECENT ASSIGNMENTS
+========================== -->
+
+<section class="assignment-section">
+
+    <div class="section-header">
+
+        <h2>Recent Assignments</h2>
+
+        <a href="add-assignment.html" class="btn-primary">
+            + Add Assignment
+        </a>
+
+    </div>
+
+    <table class="assignment-table">
+
+        <thead>
+
+            <tr>
+
+                <th>Course</th>
+
+                <th>Assignment</th>
+
+                <th>Due Date</th>
+
+                <th>Priority</th>
+
+                <th>Status</th>
+
+                <th>Action</th>
+
+            </tr>
+
+        </thead>
+
+<tbody>
+
+</tbody>
+
+    </table>
+
+</section>
+
+<!-- =========================
+     BOTTOM PANELS
+========================== -->
+
+<div class="dashboard-bottom">
+
+    <!-- Upcoming Deadlines -->
+
+    <div class="deadline-card">
+
+    <h2>Upcoming Deadlines</h2>
+
+    <div id="deadlineList">
+
+    </div>
+
+</div>
+
+    <!-- Quick Actions -->
+
+    <div class="quick-card">
+
+        <h2>Quick Actions</h2>
+
+        <a href="add-assignment.html" class="quick-btn">
+
+            <i class="fa-solid fa-plus"></i>
+
+            Add Assignment
+
+        </a>
+
+        <a href="search.html" class="quick-btn">
+
+            <i class="fa-solid fa-magnifying-glass"></i>
+
+            Search Assignment
+
+        </a>
+
+        <a href="completed.html" class="quick-btn">
+
+            <i class="fa-solid fa-circle-check"></i>
+
+            View Completed
+
+        </a>
+
+    </div>
+
+</div>
+
+    </main>
+
+</div>
+
+<script src="js/storage.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/dashboard.js"></script>
+<script src="js/assignment.js"></script>
+
+</body>
+
+</html>
