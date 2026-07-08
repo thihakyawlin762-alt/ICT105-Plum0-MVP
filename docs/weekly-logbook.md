@@ -267,3 +267,75 @@ Product Concept and UI/UX Wireframe
 * Verify requirement traceability across all Lab 05 documents.
 * Review and update the README with Lab 05 outputs.
 * Ensure all members have committed their assigned work to the shared GitHub repository before submission.
+
+# Weekly Logbook - Lab 06
+
+## Group Name
+
+ICT105-Plum0-MVP
+
+---
+
+## Project Title
+
+Smart Assignment Tracker
+
+---
+
+## Date
+
+---
+
+---
+
+## Members Present
+
+| Member Name               | Contribution Today                                                                                                       | GitHub Evidence / Commit / File Updated                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
+| Phone Myat Khaung         | Completed Business Model Canvas and Feature-Value Mapping documentation.                                                 | /docs/business-model-canvas.md, /docs/feature-value-mapping.md                                |
+| Shaurya Sood              | Prepared Technical Architecture and Data Structure documentation.                                                        | /docs/technical-architecture.md, /docs/data-structure.md                                      |
+| Thiha Kyaw Lin            | Created System Architecture Diagram, Data Flow Diagram, and sample dataset.                                              | /diagrams/system-architecture.*, /diagrams/data-flow.*, /data/assignment-sample-records.csv |
+| Izumi (Phone Myat Khaung) | Continued developing the HTML/CSS/JavaScript prototype and verified consistency with Lab 05 wireframes and requirements. | /prototype/                                                                                     |
+| Thura Aung Naing          | Updated GitHub repository, created GitHub issues, and maintained project documentation.                                  | GitHub Issues, Repository Updates                                                                 |
+
+---
+
+## Decisions Made Today
+
+1. Business Model Decision:
+
+   * The Smart Assignment Tracker will focus on helping university students manage assignments while allowing lecturers/administrators to monitor and manage assignment records.
+
+2. Technical Architecture Decision:
+
+   * The prototype will use a frontend architecture built with HTML, CSS, and JavaScript, with LocalStorage and sample data used to simulate data management.
+
+3. Data Structure Decision:
+
+   * Three main entities were defined: Student, Assignment, and Lecturer/Administrator. These entities support the Functional Requirements and MVP features.
+
+4. Diagram Decision:
+
+   * Separate System Architecture and Data Flow diagrams were created using Mermaid.
+   * The architecture was updated to include both Student and Lecturer/Administrator roles, matching the updated Lab 05 user flows.
+   * The prototype structure was used as the reference for all technical diagrams to maintain consistency with the final implementation.
+
+---
+
+## Problems or Risks Found
+
+* The frontend prototype does not include a backend database, so data persistence and multi-user functionality are simulated using LocalStorage and sample data.
+* Reminder notifications and user authentication are simulated because they require backend services beyond the scope of the current semester.
+* Care must be taken to keep all documentation, diagrams, wireframes, and the prototype synchronized whenever changes are made.
+
+---
+
+## Next Actions Before Lab 07
+
+* Complete the remaining prototype pages and interactions.
+* Verify that every Functional Requirement (FR) and User Story (US) is demonstrated in the prototype.
+* Test navigation between all screens.
+* Review consistency between the prototype, documentation, and diagrams.
+* Update the GitHub repository with any remaining files and screenshots.
+
+---
