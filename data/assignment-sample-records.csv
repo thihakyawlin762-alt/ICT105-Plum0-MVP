@@ -1,0 +1,9 @@
+assignment_id,course_name,assignment_title,description,deadline,priority,status,student_name,lecturer_action
+AS001,ICT105,Lab 06 Business Model Canvas,Complete Business Model Canvas documentation,2026-07-15,High,Pending,John Tan,Not yet reviewed
+AS002,ICT110,Website Homepage Design,Create homepage using HTML and CSS,2026-07-16,Medium,In Progress,Alice Lim,Progress checked
+AS003,ICT105,Wireframe Design,Design all required system wireframes,2026-07-17,High,Completed,Michael Lee,Approved
+AS004,ICT104,Python Assignment,Complete data processing exercises,2026-07-18,Low,Pending,Sarah Wong,Not yet reviewed
+AS005,ICT110,Responsive Navigation Bar,Implement responsive navigation menu,2026-07-19,Medium,In Progress,David Chen,Needs improvement
+AS006,ICT105,Technical Architecture,Prepare Lab 06 technical architecture documentation,2026-07-20,High,Pending,Emma Tan,Awaiting submission
+AS007,ICT103,Database Practice,Normalize database tables and relationships,2026-07-21,Medium,Completed,Kevin Lim,Reviewed
+AS008,ICT110,Final Prototype Integration,Combine all project pages into the final prototype,2026-07-22,High,Pending,Olivia Wong,Final review pending
