@@ -158,7 +158,7 @@ User Flow Diagram:
 
 All team members contributed to the same GitHub repository through documentation, wireframe design, prototype development, repository management, and project coordination. Individual contributions are recorded through GitHub commits, project documentation, and the weekly logbook.
 
-# Lab 06: Business Model Canvas and Technical Architecture
+# README Update - Lab 06: Business Model Canvas and Technical Architecture
 
 ## Lab 06 Summary
 
