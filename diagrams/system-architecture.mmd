@@ -1,14 +1,20 @@
 flowchart LR
     S[Student] --> UI[Smart Assignment Tracker Interface]
+    L[Lecturer / Administrator] --> UI
+
     UI --> LOGIN[Login]
+
     LOGIN --> DASH[Student Dashboard]
+    LOGIN --> ADMIN[Lecturer Dashboard]
+
     DASH --> FORM[Add / Edit Assignment]
     FORM --> STORE[(LocalStorage / Sample Data)]
+
     STORE --> LIST[Assignment List]
     LIST --> DETAIL[Assignment Detail]
-    STORE --> DASH
 
-    L[Lecturer / Administrator] --> ADMIN[Lecturer Dashboard]
-    ADMIN --> STORE
     ADMIN --> STATUS[Update Assignment Status]
     STATUS --> STORE
+
+    STORE --> DASH
+    STORE --> ADMIN
