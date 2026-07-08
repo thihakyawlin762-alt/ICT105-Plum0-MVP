@@ -1,0 +1,3 @@
+segment_id,segment_name,need,value_expected,possible_channel
+CS01,University Student,Manage assignments and deadlines in one place,Better time management and fewer missed deadlines,University website / GitHub Pages
+CS02,Lecturer / Administrator,Monitor student assignment records,Easy assignment management and progress tracking,Lecturer dashboard
