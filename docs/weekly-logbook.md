@@ -211,3 +211,59 @@ Following the instructor's arrangement, Shaurya Sood joined the team starting fr
 | Review requirements and MVP implementation | Phone Myat Khaung | Before Lab 05 | Issue 13 |
 | Review documentation and support repository updates | Shaurya Sood | Before Lab 05 | Issue 16,17 |
 
+
+# Weekly Logbook - Lab 05
+
+## Group Name
+
+ICT105-Plum0-MVP
+
+## Project Title
+
+Smart Assignment Tracker
+
+## Lab 05 Focus
+
+Product Concept and UI/UX Wireframe
+
+## What We Completed Today
+
+* Reviewed the Lab 04 requirements and confirmed the project scope.
+* Defined the product concept for the Smart Assignment Tracker.
+* Mapped system features to the functional requirements and user stories.
+* Prepared the required wireframe designs for the system.
+* Updated the User Flow diagram to include both Student and Lecturer/Administrator roles.
+* Continued developing the clickable HTML/CSS/JavaScript prototype and navigation flow.
+* Updated the GitHub repository with the latest Lab 05 documents and project progress.
+
+## Member Contributions
+
+| Member Name               | Contribution                                                                                                                                | Evidence / Commit Link |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| Phone Myat Khaung (Izumi) | Prepared the Product Concept, Feature-Requirement Mapping, developed the HTML/CSS/JavaScript prototype, and captured prototype screenshots. | GitHub Commit          |
+| Thura Aung Naing          | Updated the User Flow diagram, prepared the Weekly Logbook, maintained the Screen Inventory Checklist, and managed the GitHub repository.   | GitHub Commit          |
+| Thiha Kyaw Lin            | Designed the Homepage, Input Form, Record List, Detail View, Dashboard, and Lecturer/Administrator wireframes.                              | GitHub Commit          |
+| Shaurya Sood              | Prepared the Wireframe Specification, Wireframe Usability Checklist, and updated the README for Lab 05.                                     | GitHub Commit          |
+
+## Decisions Made
+
+| Decision                                                                                       | Reason                                                                                                                   | Related Requirement |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------- |
+| Continue using the Smart Assignment Tracker as the semester project.                           | Maintain consistency with previous labs and project objectives.                                                          | All FRs             |
+| Use existing university accounts for authentication instead of creating a registration system. | Students already have university credentials, simplifying the MVP authentication process.                                | FR-01               |
+| Add a Lecturer/Administrator module to the system.                                             | Allow lecturers to monitor assignments, manage assignment records, and satisfy the required administrator functionality. | FR-09               |
+| Keep Student and Lecturer user flows as separate diagrams.                                     | Improves readability and clearly represents the different responsibilities of each user role.                            | User Flow           |
+
+## Problems Found
+
+* Additional Lecturer/Administrator functionality had to be added to meet the Lab 05 administrator requirement.
+* Team members coordinated task distribution to ensure all required documentation, wireframes, and prototype files were completed before submission.
+
+## Next Steps Before Lab 06
+
+* Complete all required wireframe screens.
+* Finalize the HTML/CSS/JavaScript prototype.
+* Capture screenshots of every completed prototype screen.
+* Verify requirement traceability across all Lab 05 documents.
+* Review and update the README with Lab 05 outputs.
+* Ensure all members have committed their assigned work to the shared GitHub repository before submission.
