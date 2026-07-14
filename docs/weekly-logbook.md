@@ -347,8 +347,8 @@ Smart Assignment Tracker
 
 * Group Name: ICT105-Plum0-MVP
 * Project Title: Smart Assignment Tracker
-* Date: (Insert Lab Date)
-* Repository Link: (Insert GitHub Repository Link)
+* Date: (14/7/2026)
+* Repository Link: ( https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP.git )
 
 ---
 
@@ -368,12 +368,12 @@ Smart Assignment Tracker
 
 | Member Name               | Contribution                                                                                                                                                | Evidence / Commit / Issue Link |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| Phone Myat Khaung (Izumi) | Prepared the MVP Experiment Plan and Critical Assumptions documents, reviewed previous lab deliverables, and coordinated the overall MVP testing direction. | GitHub Commit / Issue          |
-| Shaurya Sood              | Prepared the Success Metrics document and updated the README with the Lab 07 summary and experiment direction.                                              | GitHub Commit / Issue          |
-| Thura Aung Naing          | Prepared the Experiment Script and updated the Weekly Logbook for Lab 07.                                                                                   | GitHub Commit / Issue          |
-| Thiha Kyaw Lin            | Prepared the User Feedback Form and will manage experiment results during MVP testing.                                                                      | GitHub Commit / Issue          |
-| Thiha Kyaw Lin | Prepared experiment templates, sample datasets, and testing resources for MVP validation. | GitHub Commit / Issue          |
-| Thura Aung Naing | Prepared the Experiment Script, Weekly Logbook, Sample Test Users, and MVP Experiment Flow Diagram. | GitHub Commit / Issue          |
+| Phone Myat Khaung (Izumi) | Prepared the MVP Experiment Plan and Critical Assumptions documents, reviewed previous lab deliverables, and coordinated the overall MVP testing direction. | GitHub Commit / Issue 39,40,46,48          |
+| Shaurya Sood              | Prepared the Success Metrics document and updated the README with the Lab 07 summary and experiment direction.                                              | GitHub Commit / Issue 42,45         |
+| Thura Aung Naing          | Prepared the Experiment Script.                                                                                   | GitHub Commit / Issue 41         |
+| Thiha Kyaw Lin            | Prepared the User Feedback Form and will manage experiment results during MVP testing.                                                                      | GitHub Commit / Issue 43,47         |
+| Thiha Kyaw Lin | Prepared experiment templates, sample datasets, and testing resources for MVP validation. | GitHub Commit / Issue 49,50         |
+| Thura Aung Naing | Prepared the Experiment Script, Weekly Logbook, Sample Test Users, and MVP Experiment Flow Diagram. | GitHub Commit / Issue 44,51,52         |
 
 
 ---
