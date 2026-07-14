@@ -1,0 +1,8 @@
+tester_code,task_id,task_description,completed,time_seconds,help_needed,confusion_point,rating_clarity_1_5,notes
+T01,T1,Understand homepage purpose,Yes,18,No,,5,Homepage clearly explains the system
+T01,T2,Login to Smart Assignment Tracker,Yes,12,No,,5,Login was straightforward
+T01,T3,Add a new assignment,Yes,42,No,,5,Assignment form was easy to complete
+T02,T4,Search for an assignment,Yes,30,No,,5,Search function was useful
+T03,T5,Open assignment details,Yes,17,No,,5,Details page was clear
+T04,T6,Edit an assignment,Yes,34,No,Save button slightly difficult to notice,4,Editing process worked correctly
+T05,T7,View dashboard summary,Yes,20,No,,5,Dashboard clearly summarized assignments
