@@ -186,3 +186,75 @@ The Smart Assignment Tracker prototype is implemented as a frontend web applicat
 
 The Business Model Canvas defines how the Smart Assignment Tracker delivers value to students and lecturers. The Feature-Value Mapping ensures that every MVP feature is connected to the Functional Requirements (FR) and User Stories (US). The Technical Architecture, Data Structure, System Architecture Diagram, Data Flow Diagram, and sample datasets provide the implementation roadmap for the prototype. Together with the documents developed in Labs 03, 04, and 05, these outputs ensure that the final prototype remains requirement-driven, technically consistent, and aligned with the project's objectives.
 
+
+# README Lab 07: MVP Experiment Design
+
+## Experiment Objective
+
+The objective of this MVP experiment is to evaluate whether university students can successfully complete the core assignment management workflow using the Smart Assignment Tracker without assistance. The experiment will identify usability issues, validate the project's core assumptions, and gather feedback before continuing with deeper implementation.
+
+---
+
+## Critical Assumptions
+
+The three most important assumptions tested during this experiment are:
+
+1. University students need a centralized system to organize assignments and deadlines.
+2. Students can complete the main assignment management workflow without assistance.
+3. The Smart Assignment Tracker provides a more effective way to manage coursework than existing methods such as notes or messaging applications.
+
+---
+
+## MVP Experiment Type
+
+Selected Experiment Type:
+
+* Simple Web Prototype
+* Clickable Prototype
+
+Reason for Selection:
+
+The current Smart Assignment Tracker is implemented as an interactive HTML, CSS, and JavaScript prototype with LocalStorage support. This allows realistic usability testing of the complete student workflow without requiring a full backend implementation.
+
+---
+
+## Success Metrics
+
+The MVP experiment will be evaluated using the following measurable success metrics:
+
+* Task Completion Rate ≥ 80%
+* Assignment Form Completion Accuracy ≥ 90%
+* Search Success Rate ≥ 80%
+* Dashboard Comprehension ≥ 80%
+* Average Usability Rating ≥ 4 / 5
+* Average Feature Usefulness Rating ≥ 4 / 5
+
+---
+
+## Files Added in Lab 07
+
+* /docs/mvp-experiment-plan.md
+* /docs/critical-assumptions.md
+* /docs/experiment-script.md
+* /docs/success-metrics.md
+* /docs/feedback-form.md
+* /docs/weekly-logbook.md
+
+---
+
+## Connection to Final Prototype
+
+The MVP experiment provides evidence to validate the Smart Assignment Tracker before further development. User feedback, task completion results, and usability measurements will help the team identify interface improvements, refine the assignment workflow, and prioritize future features. The experiment findings will directly guide the implementation and refinement of the final prototype while ensuring it remains aligned with the system requirements, user stories, and MVP objectives established in previous labs.
+
+### Additional Lab 07 Resources
+
+The following supporting files were also prepared for the MVP experiment planning and documentation:
+
+- /data/experiment-results-template.csv
+- /data/feedback-form-template.md
+- /data/sample-experiment-results.csv
+- /data/sample-test-users.csv
+-  /diagrams/experiment-flow.mmd
+-  /diagrams/experiment-flow.png
+
+These files provide templates and sample datasets to support the planned MVP usability experiment and future user testing.
