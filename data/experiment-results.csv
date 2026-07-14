@@ -1,0 +1,36 @@
+tester_code,task_id,task_description,completed_yes_no,time_seconds,help_needed_yes_no,error_or_confusion,rating_1_5,improvement_note
+T001,T1,Open homepage and explain the purpose of the system,Yes,18,No,None,5,Homepage clearly explains the system.
+T001,T2,Log into the Smart Assignment Tracker,Yes,12,No,None,5,Login process was straightforward.
+T001,T3,Add a new assignment using the assignment form,Yes,42,No,None,5,Form was easy to complete.
+T001,T4,View the assignment list and search for the created assignment,Yes,25,No,None,4,Search worked well.
+T001,T5,Open the assignment details page,Yes,16,No,None,5,Details were easy to understand.
+T001,T6,Edit the assignment and save the changes,Yes,28,No,None,4,Save button could be more noticeable.
+T001,T7,View the dashboard summary,Yes,21,No,None,5,Dashboard provides useful information.
+T002,T1,Open homepage and explain the purpose of the system,Yes,22,No,None,4,Homepage was easy to understand.
+T002,T2,Log into the Smart Assignment Tracker,Yes,15,No,None,5,No problems logging in.
+T002,T3,Add a new assignment using the assignment form,Yes,51,Yes,Unsure about priority selection,4,Priority labels could be clearer.
+T002,T4,View the assignment list and search for the created assignment,Yes,30,No,None,5,Search was easy.
+T002,T5,Open the assignment details page,Yes,20,No,None,4,Information was sufficient.
+T002,T6,Edit the assignment and save the changes,Yes,35,No,None,4,Editing process was simple.
+T002,T7,View the dashboard summary,Yes,24,No,None,5,Dashboard was helpful.
+T003,T1,Open homepage and explain the purpose of the system,Yes,20,No,None,5,Clear introduction.
+T003,T2,Log into the Smart Assignment Tracker,Yes,14,No,None,5,Simple login.
+T003,T3,Add a new assignment using the assignment form,Yes,48,No,None,5,Very easy to complete.
+T003,T4,View the assignment list and search for the created assignment,Yes,27,No,None,4,Filter options were useful.
+T003,T5,Open the assignment details page,Yes,17,No,None,5,Details page looked organized.
+T003,T6,Edit the assignment and save the changes,Yes,30,No,None,5,Editing was intuitive.
+T003,T7,View the dashboard summary,Yes,20,No,None,5,Dashboard is informative.
+T004,T1,Open homepage and explain the purpose of the system,Yes,24,No,None,4,Purpose was understandable.
+T004,T2,Log into the Smart Assignment Tracker,Yes,16,No,None,5,No issues.
+T004,T3,Add a new assignment using the assignment form,No,70,Yes,Missed required field,3,Validation message should be more noticeable.
+T004,T4,View the assignment list and search for the created assignment,Yes,32,No,None,4,Search worked correctly.
+T004,T5,Open the assignment details page,Yes,18,No,None,5,Details page was clear.
+T004,T6,Edit the assignment and save the changes,Yes,34,No,None,4,Editing was easy after finding the button.
+T004,T7,View the dashboard summary,Yes,25,No,None,4,Dashboard could highlight upcoming deadlines more.
+T005,T1,Open homepage and explain the purpose of the system,Yes,19,No,None,5,Easy to understand.
+T005,T2,Log into the Smart Assignment Tracker,Yes,13,No,None,5,Very quick login.
+T005,T3,Add a new assignment using the assignment form,Yes,44,No,None,5,No difficulties.
+T005,T4,View the assignment list and search for the created assignment,Yes,26,No,None,5,Search was fast.
+T005,T5,Open the assignment details page,Yes,15,No,None,5,Everything was easy to read.
+T005,T6,Edit the assignment and save the changes,Yes,29,No,None,5,Editing was simple.
+T005,T7,View the dashboard summary,Yes,19,No,None,5,Dashboard was my favorite feature.
