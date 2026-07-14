@@ -4,7 +4,7 @@ Prototype Type: HTML/CSS/JavaScript Prototype
 
 Prototype Folder Path:
 
-/prototype/SmartAssignmentTracker/
+/prototype/SmartAssignmentTracker lab 07/
 
 ---
 
