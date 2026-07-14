@@ -339,3 +339,60 @@ Smart Assignment Tracker
 * Update the GitHub repository with any remaining files and screenshots.
 
 ---
+
+
+# Weekly Logbook - Lab 07
+
+## Group Information
+
+* Group Name: ICT105-Plum0-MVP
+* Project Title: Smart Assignment Tracker
+* Date: (Insert Lab Date)
+* Repository Link: (Insert GitHub Repository Link)
+
+---
+
+## What We Completed Today
+
+* ☑ Reviewed requirements, user stories, MVP features, architecture, and wireframes
+* ☑ Identified critical assumptions
+* ☑ Selected MVP experiment type
+* ☑ Defined test users and success metrics
+* ☑ Prepared experiment script and feedback form
+* ☑ Updated GitHub repository and README
+* ☑ Prepared additional experiment templates and sample datasets for Lab 07
+* ☑ Created the MVP Experiment Flow Diagram
+---
+
+## Member Contributions
+
+| Member Name               | Contribution                                                                                                                                                | Evidence / Commit / Issue Link |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| Phone Myat Khaung (Izumi) | Prepared the MVP Experiment Plan and Critical Assumptions documents, reviewed previous lab deliverables, and coordinated the overall MVP testing direction. | GitHub Commit / Issue          |
+| Shaurya Sood              | Prepared the Success Metrics document and updated the README with the Lab 07 summary and experiment direction.                                              | GitHub Commit / Issue          |
+| Thura Aung Naing          | Prepared the Experiment Script and updated the Weekly Logbook for Lab 07.                                                                                   | GitHub Commit / Issue          |
+| Thiha Kyaw Lin            | Prepared the User Feedback Form and will manage experiment results during MVP testing.                                                                      | GitHub Commit / Issue          |
+| Thiha Kyaw Lin | Prepared experiment templates, sample datasets, and testing resources for MVP validation. | GitHub Commit / Issue          |
+| Thura Aung Naing | Prepared the Experiment Script, Weekly Logbook, Sample Test Users, and MVP Experiment Flow Diagram. | GitHub Commit / Issue          |
+
+
+---
+
+## Key Decisions
+
+| Decision                                                                  | Reason                                                                                                                                     | Evidence / Requirement Link                 |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
+| Selected a Simple Web Prototype with Clickable Prototype for MVP testing. | The current HTML/CSS/JavaScript prototype is sufficiently functional for usability testing without requiring a backend implementation.     | MVP Experiment Plan                         |
+| Limited the MVP experiment to the Student module.                         | The student workflow is nearly complete, while the Lecturer module is still under development and will be validated in a future iteration. | Technical Architecture, MVP Experiment Plan |
+| Selected university students as the primary test users.                   | They represent the target users identified during Lab 04 and are the intended audience of the Smart Assignment Tracker.                    | User Stories, Product Concept               |
+| Established measurable success metrics for usability testing.             | Objective measurements provide evidence for future design improvements before implementation sprint activities.                            | Success Metrics                             |
+
+---
+
+## Problems and Next Action
+
+| Problem                                                   | Next Action                                                                        | Responsible Member                 |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------- |
+| MVP user testing has not yet been conducted.              | Recruit student testers and perform the MVP experiment.                            | All Members                        |
+| Experiment results and screenshots are not yet available. | Conduct the experiment, collect feedback, record results, and capture screenshots. | Thiha Kyaw Lin & Phone Myat Khaung |
+| Lecturer/Administrator module is still under development. | Continue implementation and include it in future validation activities.            | Phone Myat Khaung                  |
