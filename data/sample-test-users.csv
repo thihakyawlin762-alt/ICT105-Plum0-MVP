@@ -1,1 +1,6 @@
-
+tester_code,tester_type,university_role,experience_with_assignment_tracking,reason_selected
+T01,Student,Undergraduate,Uses notebook or reminders daily,Primary target user
+T02,Student,Undergraduate,Uses mobile reminder applications,Can compare current workflow
+T03,Student,International Student,Uses multiple assignment management methods,Represents international students
+T04,Student,Undergraduate,Often manages multiple course assignments,Represents heavy assignment workload
+T05,Student,Undergraduate,Never used an assignment tracker before,Can evaluate first-time usability
