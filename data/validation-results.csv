@@ -1,0 +1,21 @@
+TestID,TestDate,TestUserID,UserRole,DeviceType,PrototypeVersion,TaskName,TaskCompleted,CompletionTimeSeconds,EaseOfUseScore,UsefulnessScore,ConfusionPoint,MostUsefulFeature,WouldUseAgain,InterestLevel,RequirementID,MVPDecisionSignal,Notes
+T001,2026-07-26,U001,Student,Laptop,v1.0,Login to Smart Assignment Tracker,Yes,18,5,5,None,Login,Yes,5,FR-01,Validated,Login was quick and straightforward.
+T002,2026-07-26,U002,Student,Laptop,v1.0,Add a new assignment,Yes,45,4,5,None,Assignment Form,Yes,5,"FR-03, FR-04",Validated,Assignment form was easy to complete.
+T003,2026-07-26,U003,Student,Mobile,v1.0,Search for an assignment,Yes,24,4,4,Search filter labels,Search Function,Yes,4,FR-05,Partial,Search worked but filters could be clearer.
+T004,2026-07-26,U004,Student,Laptop,v1.0,View assignment details,Yes,17,5,5,None,Assignment Details,Yes,5,FR-06,Validated,Details page was clear and informative.
+T005,2026-07-26,U005,Student,Laptop,v1.0,Edit an assignment,Yes,31,4,5,Save button location,Edit Assignment,Yes,4,FR-07,Partial,Editing worked but save button should be more noticeable.
+T006,2026-07-26,U006,Student,Mobile,v1.0,View dashboard summary,Yes,22,5,5,None,Dashboard,Yes,5,FR-08,Validated,Dashboard clearly summarized assignments.
+T007,2026-07-27,U007,Student,Laptop,v1.0,Search completed assignments,Yes,27,4,4,None,Completed Assignment List,Yes,4,FR-09,Validated,Completed assignments were easy to locate.
+T008,2026-07-27,U008,Student,Mobile,v1.0,Add assignment with missing required fields,No,62,3,4,Validation message,Form Validation,Maybe,3,FR-04,Revise,Validation message should be more noticeable.
+T009,2026-07-27,U009,Student,Laptop,v1.0,View lecturer feedback,Yes,20,4,5,None,Lecturer Feedback,Yes,5,FR-10,Validated,Feedback section was easy to understand.
+T010,2026-07-27,U010,Lecturer,Desktop,v1.0,Open lecturer dashboard,Yes,35,4,4,None,Lecturer Dashboard,Yes,4,FR-11,Validated,Lecturer dashboard loaded successfully.
+T011,2026-07-27,U011,Lecturer,Desktop,v1.0,Review submitted assignments,Yes,40,4,5,Navigation menu,Assignment Review,Yes,4,FR-12,Partial,Navigation could be improved.
+T012,2026-07-27,U012,Student,Laptop,v1.0,Search assignment by module,Yes,25,5,5,None,Search by Module,Yes,5,FR-05,Validated,Module search was very useful.
+T013,2026-07-28,U013,Student,Mobile,v1.0,Open assignment details,Yes,19,5,5,None,Assignment Details,Yes,5,FR-06,Validated,Assignment information was complete.
+T014,2026-07-28,U014,Student,Laptop,v1.0,Edit assignment deadline,Yes,33,4,4,Date picker,Edit Assignment,Yes,4,FR-07,Partial,Date picker could be more user-friendly.
+T015,2026-07-28,U015,Lecturer,Desktop,v1.0,Review assignment statistics,Yes,41,4,5,None,Dashboard Charts,Yes,5,FR-13,Validated,Statistics were easy to interpret.
+T016,2026-07-28,U016,Student,Mobile,v1.0,View completed assignments,Yes,23,5,5,None,Completed Assignment List,Yes,5,FR-09,Validated,Completed assignment page was easy to navigate.
+T017,2026-07-28,U017,Student,Laptop,v1.0,Search assignment by keyword,Yes,21,5,5,None,Keyword Search,Yes,5,FR-05,Validated,Keyword search returned accurate results.
+T018,2026-07-28,U018,Student,Mobile,v1.0,Open dashboard,Yes,24,4,5,None,Dashboard Summary,Yes,4,FR-08,Validated,Dashboard displayed useful reminders.
+T019,2026-07-28,U019,Student,Laptop,v1.0,Edit assignment information,Yes,30,4,4,Button placement,Edit Assignment,Yes,4,FR-07,Partial,Editing process was smooth after finding the edit button.
+T020,2026-07-28,U020,Student,Mobile,v1.0,Submit new assignment,Yes,47,5,5,None,Assignment Form,Yes,5,"FR-03, FR-04",Validated,Assignment submission process was simple and efficient.
