@@ -2,7 +2,7 @@
 
 ## 1. Decision
 
-Choose one:
+### Selected Decision
 
 - [ ] Continue with the current MVP direction
 - [x] Continue with minor revisions
@@ -14,11 +14,16 @@ Choose one:
 
 ## 2. Evidence Supporting the Decision
 
-The MVP validation produced positive results with a **90% task completion rate** from 20 participants. Users successfully completed the main assignment management workflow, including logging in, adding assignments, searching, editing, and viewing dashboards.
+The customer validation results indicate that the Smart Assignment Tracker MVP is ready to continue with **minor revisions** before final implementation.
 
-The average ease-of-use score was **4.3/5**, while the average interest level was **4.5/5**, indicating that participants found the system useful and easy to understand.
+The decision is supported by the following dashboard evidence:
 
-Although the core functionality performed well, several usability issues were identified, including search filter labels, validation message visibility, save button placement, and lecturer dashboard navigation. These issues can be resolved through interface improvements without changing the overall MVP direction.
+- **Task Success Rate:** **95%**, showing that almost all participants successfully completed their assigned tasks.
+- **Average Ease of Use:** **4.35 / 5**, indicating that users found the system intuitive and easy to use.
+- **Interest Rate:** **95%**, demonstrating that most participants would continue using the system in the future.
+- Most users experienced **no major confusion**, while the remaining feedback focused on improving interface elements such as search filter labels, button placement, navigation, and the date picker.
+
+These findings demonstrate that the MVP successfully meets its primary objectives. The identified issues are usability improvements rather than fundamental problems with the system design or functionality.
 
 ---
 
@@ -26,34 +31,36 @@ Although the core functionality performed well, several usability issues were id
 
 | Requirement ID | Reason |
 |---|---|
-| FR-01 | Login process was simple and successfully completed by all users. |
-| FR-03 | Assignment submission workflow met user expectations. |
-| FR-05 | Assignment search function was frequently used and positively rated. |
-| FR-06 | Assignment detail page was clear and informative. |
-| FR-08 | Dashboard successfully summarized assignment information. |
-| FR-09 | Completed assignment page worked as intended. |
+| FR-01 | Login process worked successfully for users. |
+| FR-03 | Assignment submission workflow supported the primary user tasks effectively. |
+| FR-05 | Assignment search functionality was useful and frequently used by participants. |
+| FR-06 | Assignment details were easy to understand and access. |
+| FR-08 | Dashboard effectively summarized assignment information. |
+| FR-09 | Completed assignment tracking function performed as expected. |
 
 ---
 
 ## 4. Requirements to Improve
 
-| Requirement ID | Problem Found | Improvement Needed |
+| Requirement ID | Validation Evidence | Improvement Needed |
 |---|---|---|
-| FR-04 | Validation messages were not obvious to some users. | Improve visibility of validation messages. |
-| FR-05 | Search filter labels caused minor confusion. | Improve wording and organization of search filters. |
-| FR-07 | Save button was difficult to locate. | Increase button visibility and improve layout. |
-| FR-11 | Lecturer navigation required more guidance. | Simplify navigation structure and menu organization. |
+| FR-04 | Validation messages were not immediately noticeable. | Improve visibility and clarity of validation messages. |
+| FR-05 | Some users found search filter labels confusing. | Improve wording and organization of search filters. |
+| FR-07 | A few users needed additional time to locate the Save button. | Increase button visibility and improve page layout. |
+| FR-11 | Minor navigation difficulties were reported by some users. | Simplify dashboard navigation and menu structure. |
 
 ---
 
 ## 5. Prototype Changes Before Next Lab
 
-- Improve search filter labels and keyword search experience.
-- Make validation messages more noticeable.
-- Improve placement and visibility of action buttons.
-- Refine lecturer dashboard navigation.
-- Continue implementing remaining lecturer-side functions.
-- Improve responsive layout for mobile devices.
+Based on the validation results, the following improvements should be completed before the next prototype iteration:
+
+- Improve search filter labels and keyword search functionality.
+- Increase the visibility of important action buttons such as **Save** and **Edit**.
+- Enhance validation messages for required fields.
+- Simplify lecturer dashboard navigation.
+- Improve interface consistency and mobile responsiveness.
+- Continue implementing the remaining lecturer-side features before the final release.
 
 ---
 
@@ -69,3 +76,9 @@ Although the core functionality performed well, several usability issues were id
 | Create Validation Workflow Diagram | Thura | FR-13 |
 | Capture Validation Screenshots | Thura | FR-13 |
 | Update README and Weekly Logbook | Izumi | All Requirements |
+
+---
+
+## 7. Final Conclusion
+
+Based on the customer validation dashboard, the Smart Assignment Tracker MVP is **partially validated** and should **continue with minor revisions**. The high **Task Success Rate (95%)**, **Average Ease of Use (4.35/5)**, and **Interest Rate (95%)** provide strong evidence that users accept the current MVP direction. The remaining recommendations focus on improving usability and interface clarity rather than redesigning the overall solution.
