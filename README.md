@@ -304,3 +304,12 @@ The team decided to **continue with minor revisions**. Validation results demons
 - `/docs/mvp-decision.md`
 - `/screenshots/validation-test-screens.png`
 - `/docs/weekly-logbook.md`
+
+## Member Contributions
+
+| Member | Created | Uploaded to GitHub |
+|--------|---------|--------------------|
+| **Thiha Kyaw Lin** | `validation-results.csv`, `validation-results.xlsx` | Uploaded validation datasets |
+| **Shaurya Sood** | `data-dictionary.md`, `dax-measures.md` | Uploaded documentation and DAX resources |
+| **Phone Myat Khaung** | `customer-validation-summary.md`, `mvp-decision.md`, `analytics-insights.md`, `README.md`, `Weekly Logbook`, Power BI dashboard formatting, dashboard screenshot, final review and integration | Uploaded documentation, dashboard screenshot, README, Weekly Logbook, and completed final integration |
+| **Thura Aung Naing** | `validation-results-flow.mmd`, `validation-test-screens.png`, `tester-user-notes.md` | Uploaded validation workflow, screenshots, and tester notes |
