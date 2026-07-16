@@ -307,9 +307,11 @@ The team decided to **continue with minor revisions**. Validation results demons
 
 ## Member Contributions
 
-| Member | Created | Uploaded to GitHub |
-|--------|---------|--------------------|
-| **Thiha Kyaw Lin** | `validation-results.csv`, `validation-results.xlsx` | Uploaded validation datasets |
-| **Shaurya Sood** | `data-dictionary.md`, `dax-measures.md` | Uploaded documentation and DAX resources |
-| **Phone Myat Khaung** | `customer-validation-summary.md`, `mvp-decision.md`, `analytics-insights.md`, `README.md`, `Weekly Logbook`, Power BI dashboard formatting, dashboard screenshot, final review and integration | Uploaded documentation, dashboard screenshot, README, Weekly Logbook, and completed final integration |
-| **Thura Aung Naing** | `validation-results-flow.mmd`, `validation-test-screens.png`, `tester-user-notes.md` | Uploaded validation workflow, screenshots, and tester notes |
+| Member Name | Contribution | GitHub Evidence |
+|---|---|---|
+| Phone Myat Khaung | Updated README, completed weekly logbook, managed GitHub issues, reviewed all Lab 08 deliverables | README.md, weekly-logbook.md, GitHub Issues |
+| Thiha Kyaw Lin | Prepared validation-results.csv and validation-results.xlsx | validation-results.csv, validation-results.xlsx |
+| Shaurya Sood | Prepared analytics insights, data dictionary, and Power BI DAX measures | analytics-insights.md, data-dictionary.md, dax-measures.md |
+| Phone Myat Khaung | Wrote customer validation summary and MVP decision document | customer-validation-summary.md, mvp-decision.md |
+| Thura Aung Naing | Created validation workflow diagram, tester notes, and validation screenshots | validation-results-flow.mmd, tester-user-notes.md, validation-test-screens.png |
+
