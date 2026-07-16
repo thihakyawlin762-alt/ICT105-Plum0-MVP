@@ -282,9 +282,7 @@ Smart Assignment Tracker
 
 ---
 
-## Date
 
----
 
 ---
 
@@ -348,7 +346,7 @@ Smart Assignment Tracker
 * Group Name: ICT105-Plum0-MVP
 * Project Title: Smart Assignment Tracker
 * Date: 14/7/2026
-* Repository Link: ( https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP.git )
+* Repository Link:  https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP.git 
 
 ---
 
@@ -396,3 +394,56 @@ Smart Assignment Tracker
 | MVP user testing has not yet been conducted.              | Recruit student testers and perform the MVP experiment.                            | All Members                        |
 | Experiment results and screenshots are not yet available. | Conduct the experiment, collect feedback, record results, and capture screenshots. | Thiha Kyaw Lin & Phone Myat Khaung |
 | Lecturer/Administrator module is still under development. | Continue implementation and include it in future validation activities.            | Phone Myat Khaung                  |
+
+
+# Weekly Logbook - Lab 08
+
+## Group Information
+- **Group name:** ICT105-Plum0-MVP
+- **Project title:** Smart Assignment Tracker
+- **Repository link:** https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP.git 
+- **Lab date:** 16 July 2026
+
+---
+
+## Work Completed Today
+
+- [x] Reviewed Lab 07 MVP experiment plan
+- [x] Prepared validation dataset structure
+- [x] Created or updated analytics sheet
+- [x] Wrote customer validation summary
+- [x] Wrote analytics insights
+- [x] Wrote MVP decision
+- [x] Updated README
+- [x] Created GitHub issues for prototype improvements
+
+---
+
+## Member Contributions
+
+| Member Name | Contribution | GitHub Evidence |
+|---|---|---|
+| Phone Myat Khaung | Updated README, completed weekly logbook, managed GitHub issues, reviewed all Lab 08 deliverables | README.md, weekly-logbook.md, GitHub Issues |
+| Thiha Kyaw Lin | Prepared validation-results.csv and validation-results.xlsx | validation-results.csv, validation-results.xlsx |
+| Shaurya Sood | Prepared analytics insights, data dictionary, and Power BI DAX measures | analytics-insights.md, data-dictionary.md, dax-measures.md |
+| Phone Myat Khaung | Wrote customer validation summary and MVP decision document | customer-validation-summary.md, mvp-decision.md |
+| Thura Aung Naing | Created validation workflow diagram, tester notes, and validation screenshots | validation-results-flow.mmd, tester-user-notes.md, validation-test-screens.png |
+
+---
+
+## Problems Found
+
+- A few users experienced confusion with search filter labels and assignment editing.
+- Validation messages for required fields should be more noticeable.
+- Lecturer-side features are still under development and require further implementation.
+- Power BI dashboard has not yet been finalized and will be completed using the validation dataset.
+
+---
+
+## Next Actions
+
+- Build the Power BI dashboard using the validation dataset.
+- Improve search filters, validation messages, and interface consistency.
+- Continue implementing lecturer-side features.
+- Finalize analytics visualizations and validation evidence.
+- Prepare the final prototype for the next development phase.
