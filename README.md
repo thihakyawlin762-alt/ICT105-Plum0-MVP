@@ -258,3 +258,49 @@ The following supporting files were also prepared for the MVP experiment plannin
 -  /diagrams/experiment-flow.png
 
 These files provide templates and sample datasets to support the planned MVP usability experiment and future user testing.
+
+# README Update - Lab 08
+
+## Lab 08: Customer Validation and Analytics Sheet
+
+### Validation Objective
+
+The objective of this validation was to evaluate whether students and lecturers could successfully use the Smart Assignment Tracker to complete the core assignment management workflow. The experiment focused on validating the usability, usefulness, and effectiveness of the MVP before continuing with further implementation.
+
+---
+
+### Prototype Version Tested
+
+- **Version:** v1.0
+- **Link:** `/prototype/SmartAssignmentTracker/`
+- **Screenshots:** `/screenshots/validation-test-screens.png`
+
+---
+
+### Analytics Summary
+
+| Metric | Result |
+|---|---:|
+| Total test users | 20 |
+| Task success rate | 90% |
+| Average feedback score | 4.3 / 5 |
+| Average interest level | 4.5 / 5 |
+| Main confusion point | Search filter labels, validation messages, save button placement, lecturer navigation |
+
+---
+
+### MVP Decision
+
+The team decided to **continue with minor revisions**. Validation results demonstrated that the core assignment management workflow was successful, with a high task completion rate and positive user feedback. Minor usability improvements will be implemented before continuing with the next development stage.
+
+---
+
+### Files Added
+
+- `/data/validation-results.xlsx`
+- `/data/validation-results.csv`
+- `/docs/customer-validation-summary.md`
+- `/docs/analytics-insights.md`
+- `/docs/mvp-decision.md`
+- `/screenshots/validation-test-screens.png`
+- `/docs/weekly-logbook.md`
