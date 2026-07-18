@@ -1,1 +1,7 @@
-
+Asset_Name,Type,Source_URL,License_or_Permission,Used_In,Credit_Required,Risk_Level,Action
+Bootstrap 5,CSS Framework,https://getbootstrap.com,MIT License,Website Layout,Yes,Low,Follow MIT license and provide attribution if required
+Font Awesome,Icon Library,https://fontawesome.com,Free License,Navigation Icons,Yes,Low,Use only free icons and acknowledge source if required
+Google Fonts (Poppins),Font,https://fonts.google.com,Open Font License,Website Typography,No,Low,Use according to OFL license
+ChatGPT,AI Assistance,https://chatgpt.com,OpenAI Terms of Use,Documentation and Development Assistance,No,Low,Review AI-generated content before submission
+Mermaid,Diagram Tool,https://mermaid.js.org,MIT License,System Diagrams,No,Low,Use official Mermaid syntax
+Project Team Assets,Original Work,N/A,Team Ownership,Prototype Documentation and UI,No,Low,Maintain ownership within the project
