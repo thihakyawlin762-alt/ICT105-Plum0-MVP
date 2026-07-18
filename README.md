@@ -315,3 +315,48 @@ The team decided to **continue with minor revisions**. Validation results demons
 | Phone Myat Khaung | Wrote customer validation summary and MVP decision document | customer-validation-summary.md, mvp-decision.md |
 | Thura Aung Naing | Created validation workflow diagram, tester notes, and validation screenshots | validation-results-flow.mmd, tester-user-notes.md, validation-test-screens.png |
 
+
+
+---
+
+# Lab 09 - Responsible IT Check
+
+## Responsible Design Summary
+
+During Lab 09, the Smart Assignment Tracker prototype was reviewed to ensure it follows responsible IT practices. The team evaluated privacy, ethics, intellectual property, and basic security considerations before continuing prototype development.
+
+The review confirmed that the system only collects necessary academic information, separates student and lecturer functions, avoids unnecessary sensitive personal data, and properly documents third-party assets. Basic security risks such as unauthorized access and weak authentication were identified and documented with appropriate mitigation strategies.
+
+## Files Added
+
+- `/docs/legal-ethical-checklist.md`
+- `/docs/privacy-and-data-protection.md`
+- `/docs/ip-and-third-party-assets.md`
+- `/docs/security-risk-check.md`
+- `/docs/risk-register.md`
+- `/docs/updated-requirements-note.md`
+- `/docs/weekly-logbook.md`
+
+### Optional Supporting Files
+
+- `/docs/user-consent-statement.md`
+- `/docs/data-handling-policy.md`
+- `/data/data-inventory.csv`
+- `/data/risk-register.csv`
+- `/data/third-party-assets-register.csv`
+- `/diagrams/privacy-security-review.png`
+- `/screenshots/privacy-security-review.png`
+
+## Requirement Update
+
+After completing the Responsible IT review, the project's functional requirements remained unchanged. However, several non-functional improvements were identified, including stronger privacy protection, clearer role-based access control, better documentation of third-party assets, and improved security considerations. These recommendations will be incorporated into future prototype development.
+
+## Team Contributions
+
+| Member | Contribution |
+|---|---|
+| **Phone Myat Khaung** | Legal & Ethical Checklist, Privacy and Data Protection, User Consent Statement, Data Handling Policy, README update |
+| **Thiha Kyaw Lin** | Security Risk Check, Risk Register, Risk Register CSV |
+| **Thura Aung Naing** | Data Inventory, Privacy Security Diagram (.mmd & .png), Screenshot Evidence, Weekly Logbook |
+| **Shaurya** | IP & Third-Party Assets, Third-Party Assets Register, Updated Requirements Note |
+
