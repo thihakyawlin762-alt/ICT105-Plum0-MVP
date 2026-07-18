@@ -1,0 +1,9 @@
+| Area           | Check Question                                     | Yes / No / Partial | Risk Level | Mitigation Action                                                                     |
+| -------------- | -------------------------------------------------- | ------------------ | ---------- | ------------------------------------------------------------------------------------- |
+| Input form     | Are required fields validated?                     | Partial            | Medium     | Add stronger required-field validation and clearer error messages.                    |
+| Input form     | Are sensitive fields avoided?                      | Yes                | Low        | Only collect necessary academic information.                                          |
+| Admin function | Are admin actions separated from user actions?     | Yes                | Low        | Continue using lecturer/student role separation.                                      |
+| Data display   | Is private information hidden from public screens? | Yes                | Low        | Hide passwords and restrict lecturer feedback to authorized users.                    |
+| Status update  | Can only admin/manager update status?              | Yes                | Low        | Restrict lecturer dashboard functions to lecturer accounts only.                      |
+| Public link    | Can public links expose private information?       | Yes                | Low        | Do not publish pages containing personal assignment information.                      |
+| File upload    | Are uploaded files restricted?                     | Yes                | Low        | No file upload feature exists currently. If added later, validate file type and size. |
