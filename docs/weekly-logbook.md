@@ -447,3 +447,75 @@ Smart Assignment Tracker
 - Continue implementing lecturer-side features.
 - Finalize analytics visualizations and validation evidence.
 - Prepare the final prototype for the next development phase.
+
+
+# Weekly Logbook - Lab 09
+
+## Group Name
+
+ICT105-Plum0-MVP
+
+---
+
+## Date
+
+18 July 2026
+
+---
+
+## Members Present
+
+- Phone Myat Khaung
+- Thiha Kyaw Lin
+- Thura Aung Naing
+- Shaurya
+
+---
+
+## Work Completed Today
+
+- *Data inventory:* Completed data inventory and documented all project data fields.
+- *Privacy review:* Reviewed collected user data and applied privacy protection principles.
+- *Ethical review:* Completed legal and ethical checklist for the prototype.
+- *IP review:* Reviewed third-party assets and documented attribution requirements.
+- *Security review:* Evaluated security risks and completed the security risk checklist.
+- *Risk register:* Identified project risks and documented mitigation strategies.
+- *Requirements update note:* Reviewed requirements and confirmed minor non-functional improvements.
+
+---
+
+## Member Contributions
+
+| Member | Contribution | GitHub Evidence |
+|---|---|---|
+| Phone Myat Khaung | Legal & Ethical Checklist, Privacy & Data Protection, User Consent Statement, Data Handling Policy, README update | Multiple commits |
+| Thiha Kyaw Lin | Security Risk Check, Risk Register, Risk Register CSV | Multiple commits |
+| Thura Aung Naing | Data Inventory, Privacy & Security Diagram (.mmd & .png), Screenshot Evidence, Weekly Logbook | Multiple commits |
+| Shaurya | IP & Third-Party Assets, Third-Party Assets Register, Updated Requirements Note | Multiple commits |
+
+---
+
+## Decisions Made
+
+- Continue development of the Smart Assignment Tracker prototype.
+- Maintain role-based access between students and lecturers.
+- Minimize collection of personal information.
+- Improve documentation of third-party assets.
+- Strengthen input validation and security before final implementation.
+
+---
+
+## Issues / Blockers
+
+- Some documentation templates required customization from generic examples.
+- Team members coordinated responsibilities to avoid duplicate work.
+- No major technical blockers were encountered.
+
+---
+
+## Next Action Before Lab 10
+
+- Complete all remaining Lab 09 documentation.
+- Review all GitHub commits and close completed issues.
+- Verify Responsible IT documents are consistent.
+- Begin preparation for the final prototype implementation.
