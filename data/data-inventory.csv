@@ -1,1 +1,14 @@
-
+Data_Field,Example_Value,Purpose,Personal_Data,Sensitive_Data,Visibility,Keep_Remove_Replace,Responsible_Action
+Student ID,6612345678,Identify assignment owner,Yes,No,Student and Lecturer,Keep,Restrict access to authorized users only
+Student Name,John Smith,Display assignment owner,Yes,No,Student and Lecturer,Keep,Only visible to relevant users
+User Role,Student,Determine system permissions,No,No,System,Keep,Use role-based access control
+Assignment Title,ICT105 Lab 09,Identify assignment,No,No,Student and Lecturer,Keep,None
+Module/Course,ICT105,Categorize assignments,No,No,Student and Lecturer,Keep,None
+Assignment Description,Build Power BI dashboard,No,No,Student and Lecturer,Keep,None
+Due Date,2026-08-01,Track assignment deadline,No,No,Student and Lecturer,Keep,None
+Assignment Status,Submitted,Track assignment progress,No,No,Student and Lecturer,Keep,Only authorized users can update
+Lecturer Feedback,Good work,Provide academic feedback,Yes,No,Relevant Student and Lecturer,Keep,Restrict visibility
+Password,********,Authenticate user,Yes,Yes,System Only,Keep,Store securely and never display
+Validation Feedback Score,5,Measure usability,No,No,Project Team,Keep,Use only for project analysis
+Interest Level,5,Measure user interest,No,No,Project Team,Keep,Use anonymous data where possible
+Completion Time,45 seconds,Measure task efficiency,No,No,Project Team,Keep,Use for analytics only
