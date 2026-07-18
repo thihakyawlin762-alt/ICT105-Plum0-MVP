@@ -347,6 +347,9 @@ The review confirmed that the system only collects necessary academic informatio
 - `/diagrams/privacy-security-review.png`
 - `/screenshots/privacy-security-review.png`
 
+### Extra Supporting Files
+- `/data/security_review_checklist.csv`
+
 ## Requirement Update
 
 After completing the Responsible IT review, the project's functional requirements remained unchanged. However, several non-functional improvements were identified, including stronger privacy protection, clearer role-based access control, better documentation of third-party assets, and improved security considerations. These recommendations will be incorporated into future prototype development.
@@ -356,7 +359,7 @@ After completing the Responsible IT review, the project's functional requirement
 | Member | Contribution |
 |---|---|
 | **Phone Myat Khaung** | Legal & Ethical Checklist, Privacy and Data Protection, User Consent Statement, Data Handling Policy, README update |
-| **Thiha Kyaw Lin** | Security Risk Check, Risk Register, Risk Register CSV |
+| **Thiha Kyaw Lin** | Security Risk Check, Risk Register, Risk Register CSV, Security Review Checklist CSV |
 | **Thura Aung Naing** | Data Inventory, Privacy Security Diagram (.mmd & .png), Screenshot Evidence, Weekly Logbook |
 | **Shaurya** | IP & Third-Party Assets, Third-Party Assets Register, Updated Requirements Note |
 
