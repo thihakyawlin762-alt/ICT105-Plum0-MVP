@@ -202,6 +202,134 @@ The Student module currently supports the primary assignment management workflow
 
 The Lecturer module has only begun implementation. The current dashboard represents the planned administrative interface and will be expanded with assignment management, monitoring, and administrative functionality in future development.
 
+
+# Screenshots Folder For Lab 10
+
+## Purpose
+
+This folder contains screenshot evidence documenting the development progress of the **Smart Assignment Tracker** prototype throughout the ICT105 semester project.
+
+The screenshots provide visual proof of implemented features, user interface development, and prototype functionality across multiple laboratory activities.
+
+---
+
+# Previous Laboratory Screenshots
+
+The original screenshots included in this folder were created during **Lab 05**, **Lab 06**, and **Lab 07**.
+
+They document the progressive development of the prototype and demonstrate features such as:
+
+- Landing Pages
+- Login Page
+- Student Dashboard
+- Add Assignment
+- Save Assignment Workflow
+- Assignment Details
+- Search and Filter
+- Completed Assignments
+- Notifications
+- Lecturer Dashboard
+- Responsive Interface
+
+These screenshots are preserved to maintain the project's development history and demonstrate continuous implementation throughout the semester.
+
+---
+
+# Lab 10 Screenshot Evidence
+
+For **Lab 10 – MVP Implementation Sprint 1**, additional screenshots have been included using the naming convention specified in the ICT105 laboratory instructions.
+
+These screenshots are **copies of existing prototype screenshots** that have been renamed only to satisfy the required screenshot filenames for Lab 10.
+
+No additional prototype versions were created.
+
+---
+
+## Required Screenshots
+
+| Required Filename | Original Screenshot Used |
+|-------------------|--------------------------|
+| homepage.png | landing-site or home page 1.png |
+| input-form.png | add assignments 1.png |
+| record-list.png | dashboard 2.png |
+| detail-view.png | Assignment Details page screenshot |
+| admin-view.png | Lecturer Dashboard.png |
+
+---
+
+## Optional Screenshots
+
+| Optional Filename | Original Screenshot Used |
+|-------------------|--------------------------|
+| dashboard.png | dashboard 1.png |
+| search-filter.png | Search page screenshot |
+| validation-message.png | Not included |
+| mobile-view.png | Not included |
+
+---
+
+# Screenshot Naming Note
+
+The duplicate filenames were created solely to comply with the screenshot naming requirements provided in **Lab 10**.
+
+The original descriptive filenames remain in this folder because they document the project's historical development from previous laboratories.
+
+Both filename versions refer to the same Smart Assignment Tracker prototype.
+
+---
+
+# Prototype Progress
+
+## Student Module
+
+Current implementation includes:
+
+- Landing Page
+- Login
+- Dashboard
+- Add Assignment
+- Assignment Details
+- Edit Assignment
+- Search and Filter
+- Completed Assignments
+- Notifications
+- LocalStorage Integration
+
+Status:
+**Nearly Complete**
+
+---
+
+## Lecturer Module
+
+Current implementation includes:
+
+- Lecturer Dashboard
+- Assignment Management
+- Status Management
+- Student Progress
+- Course Analytics
+
+Status:
+**Early Development (approximately 10%)**
+
+Additional functionality will continue to be implemented during future MVP sprints.
+
+---
+
+# Purpose of These Screenshots
+
+These screenshots serve as implementation evidence supporting:
+
+- Functional Requirements (FR)
+- User Stories (US)
+- MVP Features
+- Wireframes
+- Technical Architecture
+- Prototype Demonstration
+- Lab 10 MVP Implementation Sprint 1
+
+They verify that the Smart Assignment Tracker prototype is being developed consistently according to the documentation produced throughout the ICT105 semester project.
 ---
 
 ## Purpose
