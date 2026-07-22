@@ -140,3 +140,12 @@ For Lab 06, the **System Architecture** and **Data Flow** diagrams are provided 
 
 Mermaid files were chosen because they are easier to maintain, edit, and update throughout the semester while keeping the diagrams under version control in the GitHub repository. These source files represent the same system architecture and data flow used by the Smart Assignment Tracker prototype and can be exported to PNG whenever needed.
 
+# Implementation Flow Diagram (Lab 10)
+
+## Purpose
+
+This diagram illustrates how the Smart Assignment Tracker prototype was developed throughout the ICT105 semester project.
+
+The implementation follows a structured workflow beginning with requirement analysis, followed by wireframe design, technical architecture planning, responsible IT review, and finally MVP implementation.
+
+The diagram demonstrates the traceability between earlier laboratory deliverables and the current prototype implementation produced during Lab 10.
