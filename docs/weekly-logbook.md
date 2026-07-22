@@ -519,3 +519,68 @@ ICT105-Plum0-MVP
 - Review all GitHub commits and close completed issues.
 - Verify Responsible IT documents are consistent.
 - Begin preparation for the final prototype implementation.
+
+# Weekly Logbook - Lab 10
+
+## Lab Topic
+
+MVP Implementation Sprint 1
+
+---
+
+## What We Built Today
+
+- Planned Sprint 1 implementation and assigned member responsibilities.
+- Developed the Smart Assignment Tracker prototype with Student and Lecturer modules.
+- Updated implementation documentation and prepared GitHub repository for Sprint 1.
+
+---
+
+## Requirement IDs Addressed
+
+- *FR-01:* Homepage and Login
+- *FR-02:* Add Assignment
+- *FR-03:* Edit/Delete Assignment
+- *FR-04:* Student Dashboard
+- *FR-05:* Reminder Notification
+- *FR-06:* Search and Filter
+- *FR-07:* Assignment Status Tracking
+
+---
+
+## Contribution by Members
+
+| Member | Contribution | Evidence |
+|---|---|---|
+| Phone Myat Khaung | Developed the complete Smart Assignment Tracker prototype (HTML, CSS, JavaScript, LocalStorage, Student & Lecturer Modules, screenshots) | Prototype commits |
+| Thiha Kyaw Lin | Created Implementation Plan and Feature Implementation Status documentation | Documentation commits |
+| Thura Aung Naing | Updated Weekly Logbook, README, GitHub Issues, and project documentation | Documentation commits |
+| Shaurya | Organized assets, repository support, proofreading, and small repository improvements | Support commits |
+
+---
+
+## Screenshots Added
+
+- /screenshots/homepage.png
+- /screenshots/input-form.png
+- /screenshots/record-list.png
+- /screenshots/detail-view.png
+- /screenshots/admin-view.png
+
+---
+
+## Problems Faced
+
+- CSS conflicts between Student Dashboard and Lecturer Dashboard due to shared class names.
+- Maintaining synchronized LocalStorage data across all prototype pages.
+- Ensuring every implemented feature correctly maps to the project requirements.
+
+---
+
+## Plan for Next Lab
+
+- Complete remaining prototype refinements.
+- Separate Student and Lecturer CSS to avoid style conflicts.
+- Improve Lecturer Dashboard functionality.
+- Perform full prototype testing and fix remaining bugs.
+- Prepare the prototype for final presentation and evaluation.
