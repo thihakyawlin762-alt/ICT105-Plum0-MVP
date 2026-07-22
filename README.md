@@ -363,3 +363,54 @@ After completing the Responsible IT review, the project's functional requirement
 | **Thura Aung Naing** | Data Inventory, Privacy Security Diagram (.mmd & .png), Screenshot Evidence, Weekly Logbook |
 | **Shaurya** | IP & Third-Party Assets, Third-Party Assets Register, Updated Requirements Note |
 
+## Lab 10 - MVP Implementation Sprint 1
+
+### Sprint Goal
+
+Our goal in Lab 10 is to begin building the first working version of the *Smart Assignment Tracker* prototype based on the approved requirements, wireframes, technical architecture, and Responsible IT review completed in previous labs.
+
+---
+
+### Implementation Approach
+
+- *Platform/tools:* HTML, CSS, JavaScript, LocalStorage
+- *Backend status:* Simulated backend (LocalStorage)
+- *Data storage/simulation:* Browser LocalStorage
+- *Prototype link or folder:* /prototype/
+
+---
+
+### Features Implemented in Sprint 1
+
+| Feature | Requirement ID | Status | Evidence |
+|---|---|---|---|
+| Homepage | FR-01 | Working Draft | index.html |
+| Login | FR-01 | Working Draft | login.html |
+| Input form (Add Assignment) | FR-02 | Working Draft | add-assignment.html |
+| Record list | FR-05 | Working Draft | dashboard.html |
+| Search/filter | FR-06 | Working Draft | search.html |
+| Detail view | FR-07 | Working Draft | assignment-details.html |
+| Status tracking | FR-08 | Working Draft | completed.html |
+| Admin/Lecturer Dashboard | FR-09 | Working Draft | lecturer-dashboard.html |
+| Dashboard | FR-12 | Working Draft | dashboard.html |
+
+---
+
+### Screenshots
+
+- Homepage: /screenshots/homepage.png
+- Input form: /screenshots/input-form.png
+- Record list: /screenshots/record-list.png
+- Detail view: /screenshots/detail-view.png
+- Admin/status view: /screenshots/admin-view.png
+
+---
+
+### Team Contribution
+
+All group members contributed to the same GitHub repository.
+
+- *Phone Myat Khaung* – Developed the complete Smart Assignment Tracker prototype (HTML, CSS, JavaScript, LocalStorage, Student & Lecturer Modules, testing, screenshots).
+- *Thiha Kyaw Lin* – Prepared the Sprint 1 implementation documentation and feature implementation tracking.
+- *Thura Aung Naing* – Updated the README, Weekly Logbook, GitHub Issues, and repository documentation.
+- *Shaurya* – Organized project assets, repository support, documentation proofreading, and minor project maintenance.
