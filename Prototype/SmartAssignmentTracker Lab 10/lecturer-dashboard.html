@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Dashboard | Smart Assignment Tracker</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+</head>
+
+<body>
+
+<div class="dashboard">
+
+    <div class="search-box">
+
+    <input
+        type="text"
+        id="lecturerSearch"
+        placeholder="Search by course, assignment, or student...">
+
+</div>
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+
+        <div class="sidebar-logo">
+
+    <img src="assets/logo/logo.png" alt="Logo">
+
+    <h2>
+        Smart<br>
+        Assignment<br>
+        Tracker
+    </h2>
+
+</div>
+<ul>
+
+    <li class="active">
+
+        <a href="lecturer-dashboard.html">
+
+            <i class="fa-solid fa-chart-line"></i>
+
+            Dashboard
+
+        </a>
+
+    </li>
+
+    <li>
+
+        <a href="#records">
+
+            <i class="fa-solid fa-table-list"></i>
+
+            Assignment Records
+
+        </a>
+
+    </li>
+
+    <li>
+
+        <a href="#progress">
+
+            <i class="fa-solid fa-users"></i>
+
+            Student Progress
+
+        </a>
+
+    </li>
+
+    <li>
+
+        <a href="#analytics">
+
+            <i class="fa-solid fa-chart-pie"></i>
+
+            Analytics
+
+        </a>
+
+    </li>
+
+    <li>
+
+        <a href="dashboard.html">
+
+            <i class="fa-solid fa-arrow-left"></i>
+
+            Student Dashboard
+
+        </a>
+
+    </li>
+
+    <li>
+
+        <a href="login.html">
+
+            <i class="fa-solid fa-right-from-bracket"></i>
+
+            Logout
+
+        </a>
+
+    </li>
+
+</ul>
+
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+
+<!-- Dashboard Header -->
+
+<div class="dashboard-header">
+
+    <div>
+
+        <h1>Lecturer Dashboard 👨‍🏫</h1>
+
+<p>
+    Monitor assignment records, review student progress, and manage coursework across all courses.
+</p>
+
+    </div>
+
+    <div class="header-icons">
+
+    <div class="notification-wrapper">
+
+        <i class="fa-solid fa-bell" id="notificationBell"></i>
+
+        <div class="notification-dropdown" id="notificationDropdown">
+
+            <h3>Notifications</h3>
+
+            <div id="notificationList">
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <i class="fa-solid fa-user-circle"></i>
+
+</div>
+
+</div>
+
+<!-- Statistics -->
+
+<div class="stats-container">
+
+    <div class="stat-card">
+        <i class="fa-solid fa-book"></i>
+        <h3>Total Assignments</h3>
+        <h2>0</h2>
+    </div>
+
+    <div class="stat-card">
+        <i class="fa-solid fa-hourglass-half"></i>
+        <h3>Pending</h3>
+        <h2>0</h2>
+    </div>
+
+    <div class="stat-card">
+        <i class="fa-solid fa-circle-check"></i>
+        <h3>Completed</h3>
+        <h2>0</h2>
+    </div>
+
+    <div class="stat-card">
+        <i class="fa-solid fa-triangle-exclamation"></i>
+        <h3>Overdue</h3>
+        <h2>0</h2>
+    </div>
+
+    <div class="stat-card">
+        <i class="fa-solid fa-fire"></i>
+        <h3>High Priority</h3>
+        <h2>0</h2>
+    </div>
+
+</div>
+
+<!-- =========================
+     Assignment Records
+========================== -->
+
+<section class="assignment-section" id="records">
+
+    <div class="section-header">
+
+        <h2><h2>Assignment Records</h2></h2>
+
+        
+
+    </div>
+
+    <table class="assignment-table">
+
+        <thead>
+
+            <tr>
+
+                <th>Course</th>
+
+                <th>Assignment</th>
+
+                <th>Student</th>
+
+                <th>Due Date</th>
+
+                <th>Priority</th>
+
+                <th>Status</th>
+
+                <th>Actions</th>
+
+            </tr>
+
+        </thead>
+
+<tbody>
+
+</tbody>
+
+    </table>
+
+</section>
+
+<!-- =========================
+     BOTTOM PANELS
+========================== -->
+
+<div class="dashboard-bottom">
+
+    <!-- Upcoming Deadlines -->
+
+    <div class="deadline-card" id="progress">
+
+    <h2>Student Progress</h2>
+
+    <div id="studentProgress">
+
+    </div>
+
+</div>
+
+</div>
+
+    <!-- Quick Actions -->
+
+   <div class="analytics-card" id="analytics">
+
+    <h2>Course Analytics</h2>
+
+    <div class="analytics-item">
+
+        <span>Total Courses</span>
+
+        <strong id="totalCourses">0</strong>
+
+    </div>
+
+    <div class="analytics-item">
+
+        <span>High Priority Assignments</span>
+
+        <strong id="highAssignments">0</strong>
+
+    </div>
+
+    <div class="analytics-item">
+
+        <span>Completed Rate</span>
+
+        <strong id="completionRate">0%</strong>
+
+    </div>
+
+</div>
+
+</div>
+
+    </main>
+
+</div>
+
+<script src="js/storage.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/assignment.js"></script>
+<script src="js/lecturer.js"></script>
+
+</body>
+
+</html>
