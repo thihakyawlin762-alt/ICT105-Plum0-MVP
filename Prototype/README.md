@@ -225,6 +225,111 @@ All implemented pages and features are designed to remain consistent with these 
 
 ---
 
+# Prototype Folder (Lab 10)
+
+## Smart Assignment Tracker Prototype
+
+This folder contains the **Lab 10 – MVP Implementation Sprint 1** prototype for the ICT105 semester project.
+
+The prototype demonstrates the first working implementation of the **Smart Assignment Tracker** based on the approved requirements, user stories, wireframes, technical architecture, data structure, and responsible design review completed in previous labs.
+
+---
+
+## Folder Contents
+
+This folder contains the following files and folders:
+
+### Lab 10 Required Prototype Files
+
+- **index.html lab 10.html** – Sample Lab 10 entry page.
+- **style.css-lab 10.css** – Sample stylesheet for Lab 10.
+- **script.js-lab 10.js** – Sample JavaScript file for Lab 10.
+- **prototype-link.md** – Prototype platform information and requirement coverage.
+
+### Complete Working Prototype
+
+- **SmartAssignmentTracker Lab 10/**
+
+This folder contains the complete Smart Assignment Tracker prototype, including all project pages, assets, JavaScript modules, CSS files, images, and LocalStorage implementation developed during the semester.
+
+### Previous Prototype Version
+
+- **SmartAssignmentTracker - Lab 07/**
+
+This folder contains the earlier prototype created during previous laboratory activities and is kept for project development history and comparison.
+
+---
+
+## Technologies Used
+
+The prototype was developed using:
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Browser LocalStorage (Simulated Backend)
+
+Development was completed using **Sublime Text 3**.
+
+No server-side backend or database has been implemented at this stage because the project focuses on the Minimum Viable Product (MVP).
+
+---
+
+## Current Prototype Features
+
+### Student Module
+
+- Landing Page
+- Login Page
+- Student Dashboard
+- Add Assignment
+- Edit Assignment
+- Assignment Details
+- Search and Filter
+- Completed Assignments
+- Dashboard Statistics
+- Notifications
+- LocalStorage Data Management
+
+### Lecturer Module
+
+- Lecturer Dashboard
+- Assignment Record Management
+- Assignment Status Management
+- Student Progress
+- Course Analytics
+
+The Lecturer Module is currently under active development and will continue to be expanded in future sprints.
+
+---
+
+## Related ICT105 Labs
+
+This prototype is based on project documentation completed throughout the semester:
+
+- Lab 03 – Customer Problem Discovery
+- Lab 04 – Functional Requirements, User Stories, and MVP Features
+- Lab 05 – Product Concept and Wireframes
+- Lab 06 – Technical Architecture and Data Structure
+- Lab 09 – Responsible IT Review
+- Lab 10 – MVP Implementation Sprint 1
+
+---
+
+## Development Status
+
+The Smart Assignment Tracker is currently under active development.
+
+Sprint 1 focuses on implementing the core Minimum Viable Product (MVP) features. Additional functionality, testing, UI improvements, lecturer management features, and project refinements will continue throughout the remaining ICT105 project timeline.
+
+---
+
+## Note for Ajarn Herison Surbakti
+
+The complete working prototype is located inside the **SmartAssignmentTracker Lab 10** folder within this directory.
+
+The additional Lab 10 files included in this folder are provided to satisfy the prototype folder structure required by the ICT105 Lab 10 instructions while preserving the complete project implementation.
+
 # Current Development Note
 
 This repository represents the ongoing development of the Smart Assignment Tracker. Additional improvements, refinements, and feature implementations will continue throughout the remaining semester as the project progresses toward the final prototype submission.
