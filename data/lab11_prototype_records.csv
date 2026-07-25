@@ -1,0 +1,16 @@
+﻿RecordID,SubmittedDate,LastUpdatedDate,ItemCategory,Location,Priority,CurrentStatus,ResolutionDays,RequirementID,OwnerRole
+R001,7/1/2026,7/3/2026,ICT105,Online,High,Completed,2,FR-03,Student
+R002,7/2/2026,7/6/2026,ICT110,Room 503,Medium,Pending,0,FR-03,Student
+R003,7/3/2026,7/5/2026,Java Programming,Online ,High,In Progress,2,FR-05,Student
+R004,7/4/2026,7/7/2026,Web Technology,Computer Lab,Low,Completed,3,FR-06,Student
+R005,7/5/2026,7/8/2026,Database Systems,Online,High,Pending,0,FR-07,Student
+R006,7/6/2026,7/9/2026,Software Engineering,Room 402,Medium,Completed,3,FR-08,Student
+R007,7/7/2026,7/10/2026,ICT105,Online,High,In Progress,3,FR-03,Student
+R008,7/8/2026,7/11/2026,ICT110,Online,Low,Completed,3,FR-12,Student
+R009,7/9/2026,7/12/2026,Web Technology,Room 503,Medium,Pending,0,FR-06,Student
+R010,7/10/2026,7/13/2026,Java Programming,Computer Lab,High,Completed,3,FR-08,Student
+R011,7/11/2026,7/14/2026,Software Engineering,Online,Medium,In Progress,3,FR-05,Student
+R012,7/12/2026,7/15/2026,Database Systems,Room 402,High,Pending,0,FR-07,Student
+R013,7/13/2026,7/16/2026,ICT105,Online,Low,Completed,3,FR-12,Student
+R014,7/14/2026,7/17/2026,ICT110,Computer Lab,Medium,Completed,3,FR-08,Lecturer
+R015,7/15/2026,7/18/2026,Web Technology,Online,High,Pending,0,FR-09,Lecturer
