@@ -24,6 +24,8 @@ SmartAssignmentTracker Lab 11/index.html
 
 No public hosting link is available because this prototype is designed for local execution.
 
+Use Email: student@example.com | Password: 123456
+Because it is hardcoded for now.
 ---
 
 # Access Notes
