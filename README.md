@@ -414,3 +414,77 @@ All group members contributed to the same GitHub repository.
 - *Thiha Kyaw Lin* – Prepared the Sprint 1 implementation documentation and feature implementation tracking.
 - *Thura Aung Naing* – Updated the README, Weekly Logbook, GitHub Issues, and repository documentation.
 - *Shaurya* – Organized project assets, repository support, documentation proofreading, and minor project maintenance.
+
+# Lab 11: MVP Implementation Sprint 2 and Startup Metrics
+
+## Prototype Progress
+
+During Lab 11, the Smart Assignment Tracker prototype was expanded from the initial Sprint 1 implementation completed in Lab 10. The prototype now provides a more complete assignment management workflow by improving data handling, search and filtering, status tracking, dashboard analytics, documentation, and testing. The Student Module is now largely functional, while the Lecturer Module continues to be developed with additional management features planned for future iterations.
+
+---
+
+## Implemented / Improved Features
+
+| Requirement ID | Feature | Status | Evidence |
+|---|---|---|---|
+| FR-03 | Assignment Input Form | Completed | input-form.png |
+| FR-06 | Search and Filter Assignments | Completed | search-filter.png |
+| FR-08 | Assignment Status Tracking | Completed | dashboard.png |
+| FR-12 | Dashboard Statistics and Analytics | Completed | dashboard.png |
+
+---
+
+## Startup/Product Metrics
+
+The following product metrics were implemented and documented during Lab 11:
+
+- Total Assignments
+- Pending Assignments
+- Completed Assignments
+- High Priority Assignments
+- Assignment Completion Rate
+- Total Courses
+
+These metrics are calculated from LocalStorage data and displayed within the Student Dashboard and Lecturer Dashboard to provide useful information about assignment progress and workload.
+
+---
+
+## Prototype Screenshots
+
+Updated screenshots are available in the `/screenshots/` folder.
+
+Main evidence includes:
+
+- homepage.png
+- input-form.png
+- record-list.png
+- detail-view.png
+- admin-view.png
+- dashboard.png
+- search-filter.png
+
+Additional development screenshots from previous labs remain available for reference.
+
+---
+
+## Member Contributions
+
+| Member | Contribution |
+|---|---|
+| Phone Myat Khaung | Continued development of the Smart Assignment Tracker prototype, implemented Sprint 2 features, improved Student and Lecturer modules, UI, and frontend functionality. |
+| Thiha Kyaw Lin | Reviewed prototype implementation, updated Feature Implementation Status, completed Prototype Testing Notes, and verified Sprint 2 functionality. |
+| Thura Aung Naing | Updated documentation, Startup Metrics, Weekly Logbook, README, diagrams, and implementation evidence. |
+| Shaurya | Reviewed project documentation, checked repository consistency, and assisted with documentation updates. |
+
+---
+
+## Remaining Work
+
+The following items will continue to be improved before the final prototype submission:
+
+- Complete Lecturer Dashboard management functions.
+- Improve responsive design for mobile devices.
+- Expand dashboard analytics and reporting features.
+- Improve UI consistency across all pages.
+- Perform additional user testing and bug fixing.
+- Finalize documentation and prepare the complete semester project submission.
