@@ -330,6 +330,182 @@ The complete working prototype is located inside the **SmartAssignmentTracker La
 
 The additional Lab 10 files included in this folder are provided to satisfy the prototype folder structure required by the ICT105 Lab 10 instructions while preserving the complete project implementation.
 
+> **Message for Ajarn Herison Surbakti – Lab 11**
+>
+> Thank you for reviewing our Lab 11 prototype submission.
+>
+> This prototype represents the second MVP implementation sprint of the Smart Assignment Tracker project. It builds upon the work completed in Labs 03–10 by improving prototype functionality, documenting implementation progress, introducing startup/product metrics, improving data handling, and testing the complete user workflow.
+>
+> **Lab 11 Development Progress**
+>
+> **Student Module**
+>
+> The Student Module is now functionally complete for the Minimum Viable Product (MVP). Students can navigate the system, create assignments, edit existing records, search assignments, manage completed assignments, and view dashboard summaries. Data persistence is simulated using LocalStorage.
+>
+> **Lecturer / Administrator Module**
+>
+> The Lecturer Dashboard has been expanded from the previous sprint. Administrative pages now demonstrate assignment monitoring, status management, dashboard summaries, and analytics to simulate lecturer workflow. Additional backend functionality will be implemented in future development.
+>
+> **Lab 11 Improvements**
+>
+> - Prototype data handling improved
+> - Startup/Product Metrics dashboard prepared
+> - Feature implementation status documented
+> - Prototype testing completed
+> - Updated screenshots captured
+> - README and documentation revised
+>
+> This folder contains the updated prototype used for Lab 11 MVP Implementation Sprint 2.
+
+# Smart Assignment Tracker Prototype (Lab 11)
+
+## Overview
+
+The Smart Assignment Tracker is a web-based assignment management system developed for the ICT105 semester project.
+
+The prototype helps students organize coursework while providing lecturers with tools to monitor assignments and student progress.
+
+This version represents **Lab 11 – MVP Implementation Sprint 2**, continuing development from Labs 03–10.
+
+---
+
+# Prototype Status
+
+**Current Development Status:** MVP Sprint 2 (Lab 11)
+
+Current implementation includes:
+
+- Student assignment management
+- Lecturer monitoring dashboard
+- LocalStorage-based data persistence
+- Dashboard statistics
+- Startup/Product Metrics
+- Improved search and filtering
+- Prototype testing documentation
+
+---
+
+# Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Browser LocalStorage
+- Power BI (Startup/Product Metrics Dashboard)
+
+Development environment:
+
+- Sublime Text 3
+
+---
+
+# Folder Contents
+
+## Required Lab 11 Files
+
+- index.html-lab11.html
+- style.css-lab11.css
+- script.js-lab11.js
+- prototype-link_lab 11.md
+
+## Complete Working Prototype
+
+**SmartAssignmentTracker Lab 11/**
+
+Contains the complete Smart Assignment Tracker source code including:
+
+- HTML pages
+- CSS
+- JavaScript
+- Images
+- Assets
+- LocalStorage implementation
+
+---
+
+# Prototype Features
+
+## Student Module
+
+- Landing Page
+- Login
+- Student Dashboard
+- Add Assignment
+- Edit Assignment
+- Assignment Details
+- Search Assignments
+- Completed Assignments
+- Notifications
+- Dashboard Statistics
+- LocalStorage Data Management
+
+## Lecturer Module
+
+- Lecturer Dashboard
+- Assignment Monitoring
+- Status Management
+- Student Progress
+- Course Analytics
+- Dashboard Summary
+
+---
+
+# Startup/Product Metrics
+
+Lab 11 introduces prototype metrics including:
+
+- Total Records
+- Pending Assignments
+- Completed Assignments
+- Resolution Rate
+- Assignment Categories
+- User Activity Events
+- Dashboard Usage
+- Search Activity
+- Admin Updates
+- Average Processing Time
+
+These metrics are demonstrated using Power BI dashboards created from prototype datasets.
+
+---
+
+# Related ICT105 Labs
+
+- Lab 03 – Customer Problem Discovery
+- Lab 04 – Functional Requirements
+- Lab 05 – Product Concept & Wireframes
+- Lab 06 – Technical Architecture
+- Lab 07 – Initial Prototype
+- Lab 09 – Responsible IT Review
+- Lab 10 – MVP Sprint 1
+- Lab 11 – MVP Sprint 2 & Startup Metrics
+
+---
+
+# Development Status
+
+The Smart Assignment Tracker continues to evolve toward the final semester project.
+
+Lab 11 focuses on:
+
+- Improving prototype quality
+- Better data handling
+- Startup metrics
+- Dashboard analytics
+- Prototype testing
+- Documentation refinement
+
+Future work will include backend integration, authentication, notifications, and additional lecturer management functionality.
+
+---
+
+# Note for Ajarn Herison Surbakti
+
+The complete working prototype is located inside the **SmartAssignmentTracker Lab 10** folder.
+
+The remaining Lab 11 files are included to satisfy the required ICT105 submission structure while preserving the complete working project.
+
+
 # Current Development Note
 
 This repository represents the ongoing development of the Smart Assignment Tracker. Additional improvements, refinements, and feature implementations will continue throughout the remaining semester as the project progresses toward the final prototype submission.
