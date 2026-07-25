@@ -1,0 +1,11 @@
+RecordID,AssignmentTitle,Course,DueDate,Priority,Status,Category,Description
+A001,ICT105 Lab 11 Sprint 2,ICT105,2026-08-05,High,Pending,Programming,Complete Sprint 2 documentation and GitHub submission.
+A002,ICT110 Registration Form,ICT110,2026-08-08,Medium,Completed,Web Development,Finish HTML registration form assignment.
+A003,Java Programming Exercise,ICT210,2026-08-09,High,In Progress,Programming,Complete Java class inheritance exercises.
+A004,Database Design Report,ICT220,2026-08-12,Medium,Pending,Database,Prepare ER Diagram and normalization report.
+A005,Presentation Slides,ICT105,2026-08-10,Low,Completed,Presentation,Prepare startup pitch presentation.
+A006,Research Proposal,ICT230,2026-08-15,High,Pending,Research,Write proposal for semester project.
+A007,Prototype UI Improvements,ICT105,2026-08-07,High,In Progress,Prototype,Improve Smart Assignment Tracker user interface.
+A008,Testing Documentation,ICT105,2026-08-09,Medium,Pending,Documentation,Prepare prototype testing notes.
+A009,Power BI Dashboard,ICT105,2026-08-11,High,In Progress,Analytics,Create startup metrics dashboard.
+A010,README Update,ICT105,2026-08-06,Low,Completed,Documentation,Update project README with Lab 11 progress.
