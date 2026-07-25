@@ -335,3 +335,33 @@ They verify that the Smart Assignment Tracker prototype is being developed consi
 ## Purpose
 
 These screenshots provide visual evidence of the Smart Assignment Tracker prototype developed throughout Labs 05–07 and support the documentation contained within this repository.
+# Lab 11 Screenshot Info
+
+This folder contains updated screenshots for Lab 11. The images demonstrate the current state of the Smart Assignment Tracker prototype after improvements made since Lab 10.
+
+Some features shown are fully completed, while others are still being refined as part of the ongoing prototype development process.
+
+Filenames:
+
+- updated-homepage Lab 11.png
+- updated-input-form Lab 11.png
+- updated-record-list Lab 11.png
+- updated-detail-view Lab11.png
+- updated-dashboard Lab 11.png
+- updated-admin-view Lab 11.png
+
+## Lab 11 Progress
+
+The screenshots demonstrate improvements such as:
+
+- Improved Student Dashboard functionality
+- Dynamic dashboard statistics using LocalStorage
+- Functional notification panel
+- Automatic upcoming deadline display
+- Enhanced assignment management workflow
+- Completed search, edit, delete, and completion features
+- Initial implementation of the Lecturer Dashboard
+- Improved course analytics and assignment monitoring
+- Ongoing refinement of the Lecturer Dashboard interface and administrative workflow
+
+The Lecturer Dashboard remains under active development and will continue to be refined in future iterations of the prototype.
