@@ -365,3 +365,33 @@ The screenshots demonstrate improvements such as:
 - Ongoing refinement of the Lecturer Dashboard interface and administrative workflow
 
 The Lecturer Dashboard remains under active development and will continue to be refined in future iterations of the prototype.
+
+## Lab 12 Screenshots
+
+The following screenshots are included as evidence for *Lab 12 – Landing Page and Digital Go-to-Market*.
+
+### 1. Landing Page
+*File:* /screenshots/landing-page-lab12.png
+
+Shows the Smart Assignment Tracker landing page, including the project title, value proposition, problem statement, solution overview, key features, benefits, and main Call-to-Action (CTA). This demonstrates how the project is introduced to potential users before they access the prototype.
+
+---
+
+### 2. Call-to-Action (CTA)
+*File:* /screenshots/call-to-action-lab12.png
+
+Shows the main Call-to-Action button used on the landing page. The CTA encourages visitors to continue to the Smart Assignment Tracker prototype and represents the primary user conversion point for the digital marketing strategy.
+
+---
+
+### 3. Prototype Demonstration
+*File:* /screenshots/prototype-link-or-demo-screen-lab12.png
+
+Shows a working screen from the Smart Assignment Tracker prototype, such as the Student Dashboard or Lecturer Dashboard. This provides evidence that the landing page connects to a functional prototype rather than only presenting a concept.
+
+---
+
+### 4. Acquisition Metrics
+*File:* /screenshots/acquisition-metrics-table-lab12.png
+
+Shows the acquisition metrics tracking table used during Lab 12. The table records simulated marketing data such as landing page views, CTA clicks, prototype demo attempts, and feedback responses to evaluate early user interest and the effectiveness of the digital go-to-market strategy.
