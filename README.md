@@ -488,3 +488,77 @@ The following items will continue to be improved before the final prototype subm
 - Improve UI consistency across all pages.
 - Perform additional user testing and bug fixing.
 - Finalize documentation and prepare the complete semester project submission.
+
+
+## Lab 12 - Landing Page and Digital Go-to-Market
+
+### Landing Page
+
+- *Landing page folder:* /landing-page/ or `/Prototype
+/landing-page-lab 12/`
+- *Main CTA:*
+*Try the Latest Smart Assignment Tracker Prototype*
+- *Prototype/demo link:* /prototype/SmartAssignmentTracker Lab 12/index.html
+
+---
+
+### Go-to-Market Plan
+
+*Target Early Users*
+
+- University students
+- Lecturers
+- Course instructors
+- Academic advisors
+
+*Selected Channels*
+
+- University class chat groups
+- Microsoft Teams
+- Google Classroom
+- University LMS announcements
+- Campus QR posters
+- Student Facebook groups
+- University Instagram pages
+
+*Main Marketing Message*
+
+Stay organized, manage assignments efficiently, and never miss another deadline with Smart Assignment Tracker.
+
+
+---
+
+### Acquisition Metrics
+
+- Landing Page Views
+- CTA Click Rate
+- Prototype Demo Attempts
+- Student Feedback Responses
+- Early User Conversion Rate
+
+---
+
+### Screenshots
+
+- Landing page screenshot: /screenshots/landing-page-lab12.png
+- CTA screenshot: /screenshots/call-to-action-lab12.png
+
+---
+
+### Requirement Alignment
+
+The Lab 12 landing page introduces the Smart Assignment Tracker and communicates its value to university students and lecturers before directing users to the working prototype. It clearly explains the problem, proposed solution, key features, benefits, and call-to-action while remaining consistent with the Functional Requirements documented in system-requirements.md.
+
+The landing page supports the overall prototype by encouraging users to explore the Student Dashboard, Assignment Management features, Search functionality, Lecturer Dashboard, and Assignment Tracking workflow. The accompanying digital go-to-market plan and acquisition metrics also demonstrate how the prototype can be introduced to early users and evaluated for future improvements.
+
+---
+
+### Member Contributions
+
+| Member | Contribution | Commit/Issue Evidence |
+| --- | --- | --- |
+| Phone Myat Khaung | Developed the landing page, integrated the prototype, created documentation, acquisition metrics, and coordinated the project. | Issue #1 / Multiple commits |
+| Thiha Kyaw Lin | Updated the README, weekly logbook, screenshots, and repository documentation. | Issue #2 |
+| Thura Aung Naing | Prepared the go-to-market plan, marketing messages, channel planning, and landing page flow diagram. | Issue #3 |
+| Sharuya Sood | Updated landing page links, verified documentation, and assisted with final repository review. | Issue #4 |
+
