@@ -671,3 +671,77 @@ MVP Implementation Sprint 2 and Startup Metrics
 - Complete remaining Sprint 2 features.
 - Perform additional user testing and bug fixing.
 - Prepare the prototype for the next milestone and final project development.
+
+- # Weekly Logbook - Lab 12
+
+## Group Name
+
+ICT105-Plum0-MVP
+
+---
+
+## Project Title
+
+Smart Assignment Tracker
+
+---
+
+## Lab Date
+
+**July 27, 2026**
+
+---
+
+## Work Completed Today
+
+| Member Name | Contribution | File/Commit Evidence |
+| --- | --- | --- |
+| Phone Myat Khaung | Developed the Landing Page (HTML, CSS, JavaScript), created landing page content, prototype link, captured landing page screenshots, and integrated the landing page with the Smart Assignment Tracker prototype. | `/landing-page/index.html`<br>`/landing-page/style.css`<br>`/landing-page/script.js`<br>`/landing-page/landing-page-link.md`<br>`/docs/landing-page-content.md`<br>`/screenshots/landing-page.png`<br>`/screenshots/call-to-action.png` |
+| Thiha Kyaw Lin | Prepared the digital marketing strategy, go-to-market plan, marketing messages, communication channels, and landing page workflow diagram. | `/docs/go-to-market-plan.md`<br>`/docs/marketing-message.md`<br>`/data/channel-plan-template.csv`<br>`/diagram/landing-page-to-prototype-flow.mmd` |
+| Thura Aung Naing | Developed acquisition metrics documentation, created landing page metric datasets and templates, and updated the project README with Lab 12 progress. | `/docs/acquisition-metrics.md`<br>`/data/acquisition-metrics-template.csv`<br>`/data/sample-smart-assignment-landing-metrics.csv`<br>`README.md` |
+| Sharuya Sood | Compiled weekly project documentation, summarized member contributions, and updated the Lab 12 weekly logbook. | `/docs/weekly-logbook.md` |
+
+---
+
+# Landing Page Progress
+
+A dedicated landing page for the **Smart Assignment Tracker** was created to introduce the project, explain its purpose, highlight key features, and encourage users to explore the working prototype. The landing page includes a clear value proposition, call-to-action button, responsible data message, and improved visual presentation suitable for demonstrating the project during Lab 12.
+
+---
+
+# Go-to-Market Progress
+
+The team identified university students as the primary target users and lecturers as secondary users. Communication channels such as class chat groups, university communities, and the project GitHub repository were selected to introduce the prototype. Marketing messages and a landing page workflow were prepared to guide users from discovering the project to interacting with the working prototype.
+
+---
+
+# Metrics Plan
+
+The team prepared acquisition metrics to evaluate early user interest and landing page effectiveness. Metrics include:
+
+- Landing Page Views
+- CTA Click Rate
+- Prototype Demo Visits
+- Feedback Responses
+- User Conversion Rate
+
+Sample datasets and tracking templates were created to simulate realistic product analytics and support future prototype evaluation.
+
+---
+
+# Problems Encountered
+
+- Designing a clear and informative landing page while maintaining consistency with the existing prototype.
+- Adapting generic Lab 12 templates to match the Smart Assignment Tracker project.
+- Organizing documentation and datasets to satisfy the required repository structure.
+- Ensuring all team members contributed through separate GitHub commits.
+
+---
+
+# Next Action Before Lab 13
+
+- Continue refining the Smart Assignment Tracker user interface.
+- Improve usability and navigation across all prototype pages.
+- Enhance responsive design for different screen sizes.
+- Conduct additional prototype testing and collect more user feedback.
+- Fix remaining bugs and polish the overall prototype before the final project presentation.
