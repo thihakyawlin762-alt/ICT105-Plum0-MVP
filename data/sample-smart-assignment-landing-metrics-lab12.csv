@@ -1,1 +1,6 @@
-
+metric_id,metric_name,description,sample_value,how_to_collect
+M-01,Landing Page Views,Number of visitors who opened the Smart Assignment Tracker landing page,75,Landing page visit counter or manual tracking
+M-02,CTA Clicks,Number of users who clicked the "Try the Prototype" button,48,JavaScript click tracking or manual count
+M-03,Prototype Demo Visits,Number of users who accessed the Smart Assignment Tracker prototype,35,Prototype access logs or LocalStorage simulation
+M-04,Feedback Responses,Number of users who submitted comments or usability feedback,12,Google Form or manual feedback collection
+M-05,Interest Conversion Rate,Percentage of visitors who continued from the landing page to the prototype,46.7%,Calculated from Prototype Demo Visits ÷ Landing Page Views × 100
