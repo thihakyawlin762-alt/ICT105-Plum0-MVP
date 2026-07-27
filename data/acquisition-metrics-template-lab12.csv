@@ -1,1 +1,4 @@
-
+Date,Channel,LandingPageViews,CTAClicks,PrototypeVisits,FeedbackResponses,StudentTesters,LecturerTesters,ConversionRate,Notes
+2026-08-01,Group Testing,18,12,10,4,10,0,66.67%,Internal group testing and feature verification.
+2026-08-03,Classmates,25,16,14,6,14,0,64.00%,Prototype shared with classmates for usability feedback.
+2026-08-05,Project Review,32,21,18,7,18,0,65.63%,Refined landing page and collected additional testing feedback.
