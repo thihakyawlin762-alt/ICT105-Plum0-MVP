@@ -1,0 +1,6 @@
+Tester_ID,Tester_Type,Task_ID,Task_Description,Completed,Completion_Time_Min,Confusion_Point,Feedback_Score_1_5,Comment,Related_Requirement
+U01,University Student,T01,Understand the landing page purpose,Yes,1.3,None,5,The landing page clearly explains the purpose of the system.,FR-01
+U01,University Student,T02,Create a new assignment,Yes,2.8,Required fields were not immediately obvious,4,Adding required-field indicators would improve usability.,FR-02
+U02,University Student,T03,Search for an assignment,Yes,1.9,Search placeholder text could be clearer,4,Search function works well but guidance can be improved.,FR-03
+U03,Lecturer,T04,Review Lecturer Dashboard analytics,Partial,3.4,Some charts require better labels,3,Dashboard statistics should include clearer descriptions.,FR-04
+U04,University Student,T05,Review notifications and upcoming deadlines,Yes,1.7,Notification panel was not immediately noticeable,4,Deadline reminders are useful but should stand out more.,FR-05
