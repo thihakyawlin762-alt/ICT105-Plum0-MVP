@@ -602,6 +602,7 @@ Landing Page:
 ```
 SmartAssignmentTracker - Lab13/index.html
 ```
+https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP/blob/2107f15a50e33442c8e75c1d4ea77dc156cf712f/Prototype/SmartAssignmentTracker%20-%20Lab13/index.html
 
 Demo Login Credentials:
 
