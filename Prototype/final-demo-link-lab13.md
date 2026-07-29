@@ -22,7 +22,7 @@ The prototype runs locally using HTML, CSS, JavaScript, and LocalStorage. No int
 Landing Page (Local)
 
 ```
-SmartAssignmentTracker - Lab13//index.html
+SmartAssignmentTracker - Lab13/index.html
 ```
 https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP/blob/81e06ee8b0100a20b44494f58c6892e2b660439e/Prototype/SmartAssignmentTracker%20-%20Lab13/index.html
 
