@@ -149,3 +149,69 @@ This diagram illustrates how the Smart Assignment Tracker prototype was develope
 The implementation follows a structured workflow beginning with requirement analysis, followed by wireframe design, technical architecture planning, responsible IT review, and finally MVP implementation.
 
 The diagram demonstrates the traceability between earlier laboratory deliverables and the current prototype implementation produced during Lab 10.
+
+# Diagram Folder
+
+## Purpose
+
+This folder contains the diagrams created for **ICT105 Lab 13 – Prototype Demonstration and User Testing**.
+
+The diagrams help explain the overall demonstration workflow and user testing process of the **Smart Assignment Tracker** prototype. They provide a visual representation of how users interact with the system and how testing results are collected and used to improve the prototype before the final presentation.
+
+---
+
+## Diagram Files
+
+### demo-flow.mmd
+
+This Mermaid diagram illustrates the complete demonstration flow used during the Lab 13 prototype presentation.
+
+The flow includes:
+
+- Introducing the assignment management problem
+- Opening the Smart Assignment Tracker landing page
+- Logging into the system
+- Accessing the Student Dashboard
+- Creating a new assignment
+- Searching and filtering assignments
+- Editing and completing assignments
+- Accessing the Lecturer Dashboard
+- Viewing analytics and notifications
+- Presenting the final improvement plan
+
+This diagram ensures the demonstration follows the primary user workflow while maintaining traceability to the project's functional requirements.
+
+---
+
+### user-testing-flow.mmd
+
+This Mermaid diagram illustrates the complete user testing process followed during Lab 13.
+
+The workflow includes:
+
+- Preparing testing tasks
+- Recruiting representative users
+- Demonstrating the Smart Assignment Tracker prototype
+- Performing testing activities
+- Recording task completion
+- Collecting user feedback
+- Identifying usability issues
+- Prioritizing improvements
+- Updating project documentation before Lab 14
+
+This diagram demonstrates how user feedback is incorporated into the continuous improvement process of the prototype.
+
+---
+
+## Relationship to Lab 13
+
+These diagrams support the following Lab 13 deliverables:
+
+- Prototype Demonstration
+- User Testing Plan
+- User Testing Results
+- Final Improvement List
+- Demo Script
+- Final Presentation Preparation
+
+Together, they provide clear visual evidence of the prototype workflow and the iterative testing process carried out before the final implementation.
