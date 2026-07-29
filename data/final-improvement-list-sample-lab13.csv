@@ -1,1 +1,10 @@
 
+Issue_ID,Issue_Description,Severity,Related_Requirement,Evidence_Source,Proposed_Fix,Owner,Status
+UI-01,Lecturer Dashboard charts need clearer labels,Critical,FR-04,User Testing,Improve chart titles legends and descriptions,Phone Myat Khaung,Pending
+UI-02,Navigation buttons are not visually prominent,Important,FR-01,User Testing,Improve button styling spacing and consistency,Thiha Kyaw Lin,Pending
+FORM-03,Assignment form should highlight required fields more clearly,Important,FR-02,User Testing,Add required-field indicators and validation messages,Thura Aung Naing,Pending
+SEARCH-04,Search placeholder text is unclear,Useful,FR-03,User Testing,Improve placeholder text and search guidance,Thiha Kyaw Lin,Pending
+NOTIF-05,Notification panel should be more noticeable,Useful,FR-05,User Testing,Increase notification visibility using icons and colors,Phone Myat Khaung,Pending
+RESP-06,Responsive layout needs improvement on smaller screens,Useful,FR-01,Instructor Feedback,Optimize layout for laptop and mobile screens,Thura Aung Naing,Pending
+FEATURE-07,Add assignment completion trend analytics,Future,FR-04,Team Discussion,Implement advanced dashboard analytics in future versions,Thura Aung Naing,Pending
+UI-08,Add smoother interface animations and transitions,Future,FR-01,Team Discussion,Improve overall user experience with subtle animations,Phone Myat Khaung,Pending
