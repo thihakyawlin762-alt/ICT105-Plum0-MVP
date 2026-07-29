@@ -562,3 +562,56 @@ The landing page supports the overall prototype by encouraging users to explore 
 | Thura Aung Naing | Prepared the go-to-market plan, marketing messages, channel planning, and landing page flow diagram. | Issue #3 |
 | Sharuya Sood | Updated landing page links, verified documentation, and assisted with final repository review. | Issue #4 |
 
+
+## Lab 13: Sales Scenario, Demo Script, and User Testing
+
+### Lab 13 Objective
+
+During Lab 13, our team focused on preparing the Smart Assignment Tracker prototype for the final presentation by developing a realistic sales scenario, creating a complete demonstration script, conducting user testing, documenting testing results, and identifying improvements required before Lab 14. These activities ensured that the prototype workflow, documentation, and user experience were thoroughly evaluated and aligned with the project's functional requirements.
+
+---
+
+### Files Completed
+
+- [x] /docs/sales-scenario.md
+- [x] /docs/demo-script.md
+- [x] /docs/user-testing-plan.md
+- [x] /docs/user-testing-results.md
+- [x] /docs/final-improvement-list.md
+- [x] /docs/weekly-logbook.md
+- [x] /screenshots/demo-flow Lab 13.png
+- [x] /screenshots/user-testing-evidence Lab 13.png
+
+---
+
+### Prototype / Demo Link
+
+**SmartAssignmentTracker - Lab13**
+
+Local HTML/CSS/JavaScript Prototype
+
+Prototype Entry:
+
+```
+SmartAssignmentTracker - Lab13
+```
+
+Landing Page:
+
+```
+SmartAssignmentTracker - Lab13/index.html
+```
+
+Demo Login Credentials:
+
+**Email:** `student@example.com`
+
+**Password:** `123456`
+
+---
+
+### Final Preparation Status
+
+The Smart Assignment Tracker prototype has completed the major documentation, demonstration, and user testing activities required for Lab 13. Core features, including the Student Module, Lecturer Dashboard, assignment management workflow, dashboard analytics, notifications, and LocalStorage data persistence, have been successfully demonstrated and evaluated.
+
+The project is **largely prepared for Lab 14**. The remaining work focuses on refining the user interface, improving usability based on testing feedback, resolving minor issues, and polishing the overall user experience before the final prototype presentation.
