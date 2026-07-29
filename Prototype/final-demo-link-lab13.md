@@ -11,6 +11,7 @@ Example Location:
 ```
 SmartAssignmentTracker - Lab13/index.html
 ```
+https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP/tree/81e06ee8b0100a20b44494f58c6892e2b660439e/Prototype/SmartAssignmentTracker%20-%20Lab13
 
 The prototype runs locally using HTML, CSS, JavaScript, and LocalStorage. No internet connection or backend server is required.
 
