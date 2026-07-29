@@ -745,3 +745,100 @@ Sample datasets and tracking templates were created to simulate realistic produc
 - Enhance responsive design for different screen sizes.
 - Conduct additional prototype testing and collect more user feedback.
 - Fix remaining bugs and polish the overall prototype before the final project presentation.
+
+
+# Weekly Logbook - Lab 13
+
+## Group Name
+
+ICT105-Plum0-MVP
+
+---
+
+## Project Title
+
+Smart Assignment Tracker
+
+---
+
+## Date
+
+29 July 2026
+
+---
+
+## Members and Contributions
+
+| Member | Contribution This Lab | GitHub Evidence |
+| --- | --- | --- |
+| Phone Myat Khaung | Developed the sales and marketing documentation, prepared the landing page materials, acquisition metrics, channel plans, and coordinated the overall Lab 13 documentation. | GitHub commits and issues |
+| Thiha Kyaw Lin | Prepared the prototype demonstration materials, demo script, demonstration flow diagram, updated README, and captured prototype demonstration screenshots. | GitHub commits and issues |
+| Thura Aung Naing | Prepared the sales scenario, user testing plan, user testing results, final improvement list, testing datasets, and user testing documentation. | GitHub commits and issues |
+| Sharuya Sood | Prepared the demo outline, final demo link, supporting README files, diagram documentation, and additional project documentation. | GitHub commits and issues |
+
+---
+
+## Work Completed
+
+- Sales scenario documentation completed.
+- Prototype demonstration script completed.
+- Prototype demonstration flow diagram created.
+- User testing plan prepared.
+- User testing results documented.
+- Final improvement list completed.
+- User testing datasets prepared.
+- Demo outline completed.
+- Final demo link documentation completed.
+- Diagram documentation completed.
+- README updated for Lab 13.
+- Prototype screenshots captured.
+- User testing evidence screenshots prepared.
+
+---
+
+## Key Decisions
+
+- Finalized the Smart Assignment Tracker demonstration workflow.
+- Used realistic assignment management scenarios during user testing.
+- Prioritized prototype improvements based on testing results.
+- Standardized documentation format across all Lab 13 deliverables.
+- Updated repository structure to improve organization before Lab 14.
+
+---
+
+## Problems Encountered
+
+- Limited attachment uploads during documentation preparation.
+- Minor adjustments were required to ensure consistency between prototype screens and documentation.
+- Additional time was needed to organize GitHub issues, commits, and supporting evidence.
+
+---
+
+## Next Actions Before Lab 14
+
+- Complete the remaining prototype improvements based on user testing feedback.
+- Refine the Student Dashboard and Lecturer Dashboard interfaces.
+- Improve overall usability and user experience.
+- Perform final testing across all prototype modules.
+- Prepare the complete prototype and presentation materials for the final Lab 14 submission.
+
+---
+
+## Requirement Traceability Notes
+
+The following requirements will receive final verification before Lab 14:
+
+- FR-01 — Landing Page and Project Introduction
+- FR-02 — User Authentication
+- FR-03 — Assignment Creation
+- FR-04 — Assignment Management
+- FR-05 — Search and Filtering
+- FR-06 — Assignment Details
+- FR-07 — Assignment Editing
+- FR-08 — Assignment Completion Status
+- FR-09 — Lecturer Dashboard
+- FR-10 — Dashboard Analytics
+- FR-11 — Notifications and Deadline Tracking
+- FR-12 — System Metrics and Reporting
+
+Final verification will ensure that each functional requirement is demonstrated successfully during the Lab 14 prototype presentation.
