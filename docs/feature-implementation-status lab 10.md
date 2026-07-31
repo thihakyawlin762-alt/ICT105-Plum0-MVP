@@ -1,71 +1,81 @@
-# Lab 10 - Feature Implementation Status
+# Lab 14 - Feature Implementation Status
 
 ## Purpose
 
-This document tracks the implementation progress of the Smart Assignment Tracker prototype and demonstrates traceability between the prototype and system-requirements.md.
+This document records the final implementation status of the Smart Assignment Tracker prototype and demonstrates traceability between the implemented prototype and `system-requirements.md`.
 
-| Req ID | Required Functionality | Prototype Screen/Module | Current Status | Evidence | Next Fix Needed |
+| Req ID | Required Functionality | Prototype Screen/Module | Final Status | Evidence | Notes |
 |---|---|---|---|---|---|
-| FR-01 | Homepage or landing screen | index.html | Working Draft | index.html | Improve UI polish |
-| FR-02 | Primary user pathway | login.html | Working Draft | login.html | Add real authentication in future |
-| FR-03 | User input or data submission | add-assignment.html | Working Draft | add-assignment.html | Improve validation messages |
-| FR-04 | Data storage or simulated storage | storage.js (LocalStorage) | Working Draft | storage.js | Replace with database in future |
-| FR-05 | View records or information list | dashboard.html, search.html | Working Draft | dashboard.html | Improve sorting options |
-| FR-06 | Search, filter, or category function | search.html | Working Draft | search.html | Add advanced filters |
-| FR-07 | Detail view for each record | assignment-details.html | Working Draft | assignment-details.html | Improve information layout |
-| FR-08 | Status or progress tracking | completed.html, dashboard.html | Working Draft | completed.html | Add overdue tracking |
-| FR-09 | Admin or manager function | lecturer-dashboard.html | Working Draft | lecturer-dashboard.html | Improve lecturer workflow |
-| FR-10 | Validation and error prevention | script.js | Working Draft | JavaScript validation | Strengthen input validation |
-| FR-11 | Confirmation or feedback message | add-assignment.html, edit-assignment.html | Working Draft | Success messages | Improve notification design |
-| FR-12 | Dashboard or summary view | dashboard.html | Working Draft | Dashboard statistics | Add more analytics |
-| FR-13 | UI consistency | CSS | In Progress | style.css | Separate Lecturer and Student CSS |
-| FR-14 | Mobile-friendly/responsive design | responsive.css | Working Draft | responsive.css | Test additional screen sizes |
-| FR-15 | Privacy and responsible data handling | LocalStorage & Lab 09 documentation | Working Draft | Lab 09 Responsible IT documents | Replace LocalStorage for production |
-| FR-16 | Final prototype traceability | Prototype + Documentation | In Progress | GitHub commits & documentation | Final verification before submission |
+| FR-01 | Homepage or landing screen | landing-page.html | Completed | landing-page Lab 14.png | Landing page introduces the project, target users, and value proposition. |
+| FR-02 | Primary user pathway | login.html | Completed | login-page Lab 14.png | Users can navigate from Landing Page → Login → Student Dashboard. |
+| FR-03 | User input or data submission | add-assignment.html | Completed | add-assignment Lab 14.png | Students can create assignments with validation. |
+| FR-04 | Data storage or simulated storage | storage.js (LocalStorage) | Completed | Student Dashboard | Assignment data is stored and synchronized using LocalStorage. |
+| FR-05 | View records or information list | dashboard.html, assignment-list.html | Completed | assignment-list Lab 14.png | Assignment records are displayed and updated correctly. |
+| FR-06 | Search, filter, or category function | search.html | Completed | assignment-list Lab 14.png | Users can search and filter assignment records efficiently. |
+| FR-07 | Detail view for each record | assignment-details.html | Completed | assignment-details Lab 14.png | Complete assignment information is displayed. |
+| FR-08 | Status or progress tracking | completed.html, dashboard.html | Completed | completed-assignments Lab 14.png | Assignment status is updated and reflected throughout the system. |
+| FR-09 | Admin or lecturer function | lecturer-dashboard.html | Completed | lecturer-dashboard Lab 14.png | Lecturers can manage assignment records and monitor progress. |
+| FR-10 | Validation and error prevention | JavaScript Validation | Completed | add-assignment Lab 14.png | Required fields are validated before submission. |
+| FR-11 | Confirmation or feedback message | Student Dashboard & Lecturer Dashboard | Completed | student-dashboard Lab 14.png | Success messages, notifications, and dashboard summaries are displayed. |
+| FR-12 | Dashboard or summary view | dashboard.html, lecturer-dashboard.html | Completed | dashboard-analytics Lab 14.png | Dashboard displays assignment statistics and course analytics. |
+| FR-13 | UI consistency | CSS | Completed | All prototype screens | Consistent layout, navigation, and styling across all pages. |
+| FR-14 | Mobile-friendly/responsive design | responsive.css | Completed | mobile-view Lab 14.png | Responsive layouts support desktop and mobile devices. |
+| FR-15 | Privacy and responsible data handling | LocalStorage & Documentation | Completed | Responsible IT Documentation | Prototype collects only necessary information and stores data locally. |
+| FR-16 | Final prototype traceability | Prototype + Documentation | Completed | README.md & GitHub Repository | All implemented features are traceable to requirements and documentation. |
 
 ---
 
 ## Summary
 
-*Features working today:*
+### Features Successfully Implemented
 
-- Homepage
-- Login navigation
+- Landing Page
+- Login Navigation
 - Student Dashboard
 - Add Assignment
 - Edit Assignment
 - Delete Assignment
-- Search
+- Search & Filter Assignments
 - Assignment Details
+- Assignment Status Tracking
 - Completed Assignments
 - Lecturer Dashboard
-- LocalStorage synchronization
-- Dashboard statistics
+- Student Progress
+- Course Analytics
+- LocalStorage Synchronization
+- Dashboard Statistics
 - Notifications
-- Responsive layout
+- Responsive Layout
+- Form Validation
+- Consistent User Interface
 
 ---
 
-*Features partially working:*
+### Features Improved During Development
 
-- Lecturer Dashboard UI refinement
-- CSS separation between Student and Lecturer modules
-- Advanced search/filter options
-- Enhanced validation messages
+- Student Dashboard layout and navigation
+- Lecturer Dashboard management functions
+- Assignment search performance
+- Dashboard analytics
+- User interface consistency
+- Responsive design
+- Documentation traceability
+- User testing improvements
 
 ---
 
-*Features not yet started:*
+### Future Improvements
 
-- Real database integration
-- User authentication system
-- Email/SMS notifications
+- Multi-user authentication
+- Cloud database integration
+- Email and push notifications
 - Calendar synchronization
+- Advanced lecturer analytics
+- Mobile application
+- Export reports (PDF/Excel)
 
 ---
 
-*Features requiring instructor feedback:*
+### Final Status
 
-- Lecturer Dashboard workflow
-- CSS architecture separation
-- Future backend integration approach
+The Smart Assignment Tracker prototype has successfully implemented all required functional requirements for ICT105 Lab 14. The prototype demonstrates a complete assignment management workflow for students and lecturers while maintaining requirement traceability, usability, and responsible data handling.
