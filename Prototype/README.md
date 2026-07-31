@@ -510,3 +510,36 @@ The remaining Lab 11 files are included to satisfy the required ICT105 submissio
 
 This repository represents the ongoing development of the Smart Assignment Tracker. Additional improvements, refinements, and feature implementations will continue throughout the remaining semester as the project progresses toward the final prototype submission.
 
+
+# Final Prototype - Lab 14
+
+## Prototype Folder
+
+The **Smart Assignment Tracker** prototype was developed using **Sublime Text 3** with HTML5, CSS3, JavaScript, and CSS.
+
+The final prototype is hosted on **GitHub Pages**, so the latest version is accessed through the link below instead of duplicating all prototype files in this folder.
+
+Please refer to:
+
+- `final-prototype-link-lab14.md`
+https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP/blob/8b4165ea7168e74162ff3862fad20164efca8d6e/Prototype/final-prototype-link-lab14.md
+
+The hosted prototype includes:
+
+- Landing Page
+- Login System
+- Student Dashboard
+- Add Assignment
+- Assignment List
+- Assignment Details
+- Search and Filter
+- Completed Assignments
+- Lecturer Dashboard
+- Student Progress
+- Course Analytics
+- Notifications
+- Responsive User Interface
+
+Using GitHub Pages ensures that the lecturer always accesses the latest version of the Smart Assignment Tracker prototype developed for ICT105 Lab 14.
+
+
