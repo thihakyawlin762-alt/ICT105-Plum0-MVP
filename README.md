@@ -617,3 +617,207 @@ Demo Login Credentials:
 The Smart Assignment Tracker prototype has completed the major documentation, demonstration, and user testing activities required for Lab 13. Core features, including the Student Module, Lecturer Dashboard, assignment management workflow, dashboard analytics, notifications, and LocalStorage data persistence, have been successfully demonstrated and evaluated.
 
 The project is **largely prepared for Lab 14**. The remaining work focuses on refining the user interface, improving usability based on testing feedback, resolving minor issues, and polishing the overall user experience before the final prototype presentation.
+
+# Final README Update for Lab 14
+
+# Smart Assignment Tracker
+
+## Group Members
+
+| Name | Role | Main Contribution |
+|---|---|---|
+| Phone Myat Khaung | Team Leader / Frontend Developer | Project management, Student & Lecturer prototype development, documentation, GitHub management |
+| Thiha Kyaw Lin | UI/UX Designer | Landing page, diagrams, feature verification, prototype design |
+| Thura Aung Naing | Documentation Manager | Weekly logbooks, reports, README updates, screenshot documentation |
+| Shaurya Sood | Documentation Support | Supporting documents, testing documents, repository review |
+
+---
+
+# Project Overview
+
+Smart Assignment Tracker is a web-based assignment management system developed for ICT105. The system helps university students organize assignments, monitor deadlines, track progress, and allows lecturers to review assignment information through a dedicated dashboard.
+
+The prototype was developed using:
+
+- HTML5
+- CSS3
+- JavaScript
+- LocalStorage
+- Sublime Text 3
+
+---
+
+# Target Users
+
+- University Students
+- Lecturers
+- Academic Advisors
+
+---
+
+# Problem Solved
+
+University students often receive assignment information from multiple platforms, making it difficult to organize deadlines and monitor progress.
+
+Smart Assignment Tracker centralizes assignment management into a single web application where users can:
+
+- Add assignments
+- Edit assignments
+- Search assignments
+- Track assignment progress
+- View dashboards
+- Review assignment statistics
+
+---
+
+# Final Prototype
+
+**Prototype Folder**
+
+```
+/Prototype/SmartAssignmentTracker - Final Prototype Lab 14 https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP/tree/d5e82081635eb8c1ecd5c186a2342dbe65709c92/Prototype/SmartAssignmentTracker%20-%20Final%20Prototype%20Lab%2014
+```
+
+**Prototype Link**
+
+```
+/prototype/final-prototype-link-lab14.md https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP/blob/d5e82081635eb8c1ecd5c186a2342dbe65709c92/Prototype/final-prototype-link-lab14.md
+```
+
+**Landing Page**
+
+```
+Prototype/SmartAssignmentTracker - Final Prototype Lab 14/index.html https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP/blob/d5e82081635eb8c1ecd5c186a2342dbe65709c92/Prototype/SmartAssignmentTracker%20-%20Final%20Prototype%20Lab%2014/index.html
+```
+
+**Final Demo**
+
+```
+docs/final-demo-script-lab14.md
+```
+
+---
+
+# Final Documentation
+
+## Core Documents
+
+- System Requirements
+  - `/docs/system-requirements.md`
+
+- User Stories
+  - `/docs/user-stories.md`
+
+- MVP Feature List
+  - `/docs/mvp-feature-list.md`
+
+---
+
+## Feature Implementation
+
+- Final Feature Implementation Status
+  - `/docs/feature-implementation-status.md`
+
+- Second Final Feature Implementation Status
+  - `/docs/feature-implementation-status-lab10.md`
+
+---
+
+## Final Reports
+
+- `/docs/final-prototype-report-lab14.md`
+
+- `/docs/final-demo-script-lab14.md`
+
+- `/docs/final-reflection-lab14.md`
+
+- `/docs/requirement-traceability-matrix-lab14.md`
+
+- `/docs/final-submission-checklist-lab14.md`
+
+---
+
+# Screenshots
+
+```
+/screenshots/
+└── All-Final-prototype-screenshots-lab14/
+```
+
+Included screenshots:
+
+- final-homepage-Home.png
+- final-homepage-Features.png
+- final-homepage-Benefits.png
+- final-homepage-Contact.png
+- final-login.png
+- final-student-dashboard.png
+- final-input-form.png
+- final-record-list.png
+- final-detail-view.png
+- final-completed-assignments.png
+- final-search-filter.png
+- final-admin-view(Lecturer-View).png
+- final-dashboard.png
+- final-notification-bell.png
+
+---
+
+# Pitch
+
+```
+/pitch/
+```
+
+Includes:
+
+- final-pitch-outline-lab14.md
+
+---
+
+# Data and Diagrams
+
+## Data
+
+```
+/data/
+```
+
+Includes:
+
+- final-sample-data-lab14.csv
+- final-testing-results-lab14.csv
+- final-requirement-traceability-lab14.csv
+- member-contribution-template-lab14.csv
+
+---
+
+## Diagrams
+
+```
+/diagrams/
+```
+
+Includes:
+
+- final-demo-flow-lab14.mmd
+
+---
+
+# Final Submission Notes
+
+This repository contains the completed Smart Assignment Tracker prototype and all supporting documentation required for ICT105 Lab 14.
+
+The prototype demonstrates:
+
+- Student assignment management
+- Lecturer dashboard
+- Assignment tracking
+- Search and filtering
+- Notifications
+- Dashboard analytics
+- Requirement traceability
+- User testing improvements
+- Final documentation
+
+All deliverables have been organized according to the ICT105 Lab 14 submission requirements.
