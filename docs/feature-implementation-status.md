@@ -1,23 +1,18 @@
 # Feature Implementation Status
 
-Updated during Lab 11. Every prototype feature is mapped to `system-requirements.md`.
+This document records the final implementation status of the **Smart Assignment Tracker** prototype. Each functional requirement is mapped to its corresponding prototype module, implementation status, and supporting evidence.
 
-
-| Req ID | Required Functionality | Screen/Module | Lab 10 Status | Lab 11 Status | Owner | Evidence Screenshot/Commit | Notes/Next Action |
-|---|---|---|---|---|---|---|---|
-| FR-01 | Homepage or landing screen | Homepage | Partially Completed | Completed | Thiha Kyaw Lin | homepage.png / Commit ID | Landing page finalized and navigation improved. |
-| FR-02 | Primary user pathway | User Flow | Partially Completed | Completed | Thiha Kyaw Lin | homepage.png / Commit ID | User can navigate from Homepage → Login → Dashboard smoothly. |
-| FR-03 | User input/submission | Add Assignment Form | Partially Completed | Completed | Phone Myat Khaung | input-form.png / Commit ID | Assignment submission form is fully functional. |
-| FR-04 | Data storage/record management | LocalStorage | Partially Completed | Completed | Phone Myat Khaung | Commit ID | Assignment records are stored and updated using LocalStorage. |
-| FR-05 | View records/list | Dashboard & Assignment List | Partially Completed | Completed | Phone Myat Khaung | record-list.png / Commit ID | Assignment records are displayed correctly. |
-| FR-06 | Search/filter/category | Search Page | Pending | Completed | Phone Myat Khaung | search-filter.png / Commit ID | Search and filtering functions implemented. |
-| FR-07 | Detail view | Assignment Details | Pending | Completed | Phone Myat Khaung | detail-view.png / Commit ID | Users can view complete assignment information. |
-| FR-08 | Status/progress tracking | Completed Assignments | Pending | Completed | Phone Myat Khaung | dashboard.png / Commit ID | Assignment status tracking implemented. |
-| FR-09 | Admin/manager function | Lecturer Dashboard | Pending | Partially Completed | Phone Myat Khaung | admin-view.png / Commit ID | Lecturer dashboard structure completed; additional management features planned. |
-| FR-10 | Validation/error prevention | Forms | Pending | Completed | Phone Myat Khaung | input-form.png / Commit ID | Required fields validated before submission. |
-| FR-11 | Confirmation/feedback message | Submission Flow | Pending | Completed | Phone Myat Khaung | input-form.png / Commit ID | Success confirmation displayed after saving assignments. |
-| FR-12 | Dashboard/analytics view | Student Dashboard | Pending | Completed | Phone Myat Khaung | dashboard.png / Commit ID | Dashboard statistics and analytics displayed using LocalStorage data. |
-| FR-13 | UI consistency | All Screens | Partially Completed | Completed | Phone Myat Khaung | Commit ID | UI styling standardized across prototype pages. |
-| FR-14 | Mobile/responsive consideration | Responsive Layout | Pending | Partially Completed | Phone Myat Khaung | Commit ID | Responsive layout improved; additional optimization may be completed later. |
-| FR-15 | Privacy/responsible data handling | Data Collection | Pending | Completed | Thiha Kyaw Lin | Commit ID | Prototype uses LocalStorage only and avoids collecting sensitive personal information. |
-| FR-16 | Final prototype traceability | Documentation | Pending | Completed | Thura Aung Naing | README / Commit ID | Documentation updated to match prototype implementation. |
+| Requirement ID | Requirement Summary | Prototype Screen/Module | Status | Evidence/Screenshot | Notes |
+|---|---|---|---|---|---|
+| FR-01 | Homepage or landing screen | Landing Page | Completed | landing-page Lab 14.png | Modern landing page introduces the project, target users, and system features. |
+| FR-02 | Primary user pathway | Login → Student Dashboard | Completed | student-dashboard Lab 14.png | Users can successfully navigate from the landing page to the Student Dashboard. |
+| FR-03 | User input or data submission | Add Assignment | Completed | add-assignment Lab 14.png | Students can create and submit new assignment records with form validation. |
+| FR-04 | Data storage or simulated storage | LocalStorage | Completed | student-dashboard Lab 14.png | Assignment data is stored, retrieved, and synchronized using LocalStorage. |
+| FR-05 | View records/list | Assignment List | Completed | assignment-list Lab 14.png | Assignment records are displayed in a structured and organized list. |
+| FR-06 | Search/filter/category | Search Assignments | Completed | assignment-list Lab 14.png | Users can search and filter assignments quickly and efficiently. |
+| FR-07 | Detail view | Assignment Details | Completed | assignment-details Lab 14.png | Users can view detailed information for each assignment record. |
+| FR-08 | Status/progress tracking | Completed Assignments | Completed | completed-assignments Lab 14.png | Assignment completion status is tracked and updated throughout the system. |
+| FR-09 | Admin/manager function | Lecturer Dashboard | Completed | lecturer-dashboard Lab 14.png | Lecturers can review assignments, monitor progress, and manage records. |
+| FR-10 | Validation and feedback | Assignment Form | Completed | add-assignment Lab 14.png | Form validation prevents incomplete submissions and provides user feedback. |
+| FR-11 | Dashboard/summary/metrics | Student & Lecturer Dashboards | Completed | dashboard-analytics Lab 14.png | Dashboards present assignment statistics, notifications, and course analytics. |
+| FR-12 | Final prototype traceability | Documentation & Repository | Completed | README.md | All implemented features are fully documented and traceable to the final prototype. |
