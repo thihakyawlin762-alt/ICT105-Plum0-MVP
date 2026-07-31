@@ -395,3 +395,28 @@ Shows a working screen from the Smart Assignment Tracker prototype, such as the 
 *File:* /screenshots/acquisition-metrics-table-lab12.png
 
 Shows the acquisition metrics tracking table used during Lab 12. The table records simulated marketing data such as landing page views, CTA clicks, prototype demo attempts, and feedback responses to evaluate early user interest and the effectiveness of the digital go-to-market strategy.
+
+# Final Prototype Screenshots - Lab 14
+
+This folder contains the final screenshots of the Smart Assignment Tracker prototype used as implementation evidence for ICT105 Lab 14.
+
+## Screenshot List
+
+| Screenshot File | Description |
+|-----------------|-------------|
+| final-homepage-Home.png | Landing page hero section introducing the Smart Assignment Tracker and its purpose. |
+| final-homepage-Features.png | Features section highlighting the core functionality of the system. |
+| final-homepage-Benefits.png | Benefits section explaining how the system helps university students manage assignments. |
+| final-homepage-Contact.png | Contact and Call-to-Action section displayed at the bottom of the landing page. |
+| final-login.png | Login page used to access the Smart Assignment Tracker. |
+| final-student-dashboard.png | Student Dashboard showing assignment statistics, notifications, and quick actions. |
+| final-input-form.png | Assignment creation form with input validation. |
+| final-record-list.png | Assignment list displaying stored assignment records. |
+| final-detail-view.png | Assignment Details page showing complete information for a selected assignment. |
+| final-completed-assignments.png | Completed Assignments page showing finished assignment records. |
+| final-search-filter.png | Search and filter functionality used to locate assignments quickly. |
+| final-admin-view(Lecturer-View).png | Lecturer Dashboard for monitoring assignments, updating status, and reviewing student progress. |
+| final-dashboard.png | Dashboard summary showing assignment statistics and analytics. |
+| final-notification-bell.png | Notification panel displaying assignment reminders and important updates. |
+
+These screenshots were captured from the final Smart Assignment Tracker prototype developed for ICT105 and demonstrate the completed implementation submitted for Lab 14.
