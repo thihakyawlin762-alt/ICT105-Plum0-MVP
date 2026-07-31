@@ -842,3 +842,107 @@ The following requirements will receive final verification before Lab 14:
 - FR-12 — System Metrics and Reporting
 
 Final verification will ensure that each functional requirement is demonstrated successfully during the Lab 14 prototype presentation.
+
+# Weekly Logbook - Lab 14
+
+## Group Name
+
+ICT105-Plum0-MVP
+
+---
+
+## Date
+
+31 July 2026
+
+---
+
+## Members Present
+
+- Phone Myat Khaung 
+- Thiha Kyaw Lin
+- Thura Aung Naing
+- Shaurya Sood
+
+---
+
+## What We Completed Today
+
+- Finalized the Smart Assignment Tracker prototype.
+- Reviewed all functional requirements and confirmed implementation status.
+- Updated the final documentation for Lab 14.
+- Completed the Final Prototype Report.
+- Completed the Final Demo Script.
+- Completed the Final Reflection.
+- Completed the Final Submission Checklist.
+- Completed the Requirement Traceability Matrix.
+- Prepared the Final Venture Pitch Outline.
+- Updated the Feature Implementation Status.
+- Prepared the final prototype link documentation.
+- Organized the final screenshots and supporting evidence.
+- Reviewed repository structure and documentation consistency before submission.
+
+---
+
+## Final Prototype Updates
+
+- Verified all Student Module pages.
+- Verified all Lecturer Module pages.
+- Confirmed LocalStorage functionality.
+- Verified assignment creation, editing, searching, filtering, completion tracking, and lecturer management.
+- Confirmed dashboard statistics and notifications.
+- Reviewed overall UI consistency and navigation.
+- Confirmed GitHub Pages prototype deployment.
+
+---
+
+## Final Documentation Updates
+
+Updated:
+
+- README.md
+- Feature Implementation Status
+- Final Prototype Report
+- Final Demo Script
+- Final Reflection
+- Requirement Traceability Matrix
+- Final Submission Checklist
+- Final Prototype Link
+- Final Venture Pitch Outline
+- Final Sample Data
+- Final Testing Results
+- Member Contribution Records
+- Screenshot Documentation
+
+---
+
+## GitHub Contributions Today
+
+| Member | File / Issue / Commit Updated | Evidence Link |
+|---|---|---|
+| Phone Myat Khaung (IzumiX0) | Final prototype verification, Lab 14 documentation, repository review, issue management | GitHub Commit / Issues |
+| Thiha Kyaw Lin | Prototype verification, diagrams, feature verification, documentation review | GitHub Commit / Issues |
+| Thura Aung Naing | Weekly Logbook, README updates, final reports, screenshot documentation | GitHub Commit / Issues |
+| Shaurya Sood | Prototype report sections, supporting documentation, final repository review | GitHub Commit / Issues |
+
+---
+
+## Problems Found Before Submission
+
+- Minor wording inconsistencies across documentation were corrected.
+- Screenshot filenames were standardized for final submission.
+- Requirement references were reviewed for consistency.
+- Repository structure was checked to ensure all required files were included.
+
+No major functional issues were found in the final prototype.
+
+---
+
+## Action Before Final Presentation
+
+- Perform one final repository review.
+- Verify all GitHub Pages links.
+- Confirm all required screenshots are uploaded.
+- Ensure all Lab 14 documents are committed.
+- Review the final demo flow.
+- Submit the final GitHub repository link to the lecturer.
