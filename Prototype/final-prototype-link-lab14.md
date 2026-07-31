@@ -3,7 +3,7 @@
 ## Smart Assignment Tracker - Final Prototype
 
 - **Prototype platform/tool:** HTML5, CSS3, JavaScript (LocalStorage)
-- **Final prototype URL:** https://thihakyawlin762-alt.github.io/ICT105-Plum0-MVP/
+- **Final prototype URL:** [https://thihakyawlin762-alt.github.io/ICT105-Plum0-MVP/](https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP/tree/b394ea63ee9412e7a0483c74044f3625d6d4aafa/Prototype/SmartAssignmentTracker%20-%20Final%20Prototype%20Lab%2014)
 - **Login/access instructions:**
   - Student Email: `student@example.com`
   - Password: `123456`
