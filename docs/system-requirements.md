@@ -7,15 +7,15 @@
 | FR-01 | The system shall display a homepage introducing the Smart Assignment Tracker, its purpose, and allow students to access the main dashboard. | Must | Students said assignment information is scattered across multiple platforms. |
 | FR-02 | The system shall allow students to log in and access their personal assignment dashboard. | Must | Students want one place to manage assignments. |
 | FR-03 | The system shall allow students to add assignment information including course name, assignment title, due date, description, and priority. | Must | Students currently record assignments manually. |
-| FR-04 | The system shall store submitted assignment data using a suitable database or local storage. | Must | Assignment information must remain available after submission. |
+| FR-04 | The system shall store submitted assignment data using LocalStorage to simulate database functionality. | Must | Assignment information must remain available after submission. |
 | FR-05 | The system shall display all assignments in a dashboard sorted by due date. | Must | Students need to monitor upcoming deadlines easily. |
 | FR-06 | The system shall allow students to search or filter assignments by course, priority, or due date. | Should | Students reported difficulty finding assignments quickly. |
 | FR-07 | The system shall display detailed information for each assignment when selected. | Must | Students need complete assignment information before submission. |
-| FR-08 | The system shall allow students to mark assignments as Pending, In Progress, or Completed. | Must | Students want to track assignment progress. |
-| FR-09 | The system shall provide an administrator function to edit or remove incorrect assignment records. | Could | Basic management functionality for prototype demonstration. |
+| FR-08 | The system shall allow students to mark assignments as Pending or Completed. | Must | Students want to track assignment progress. |
+| FR-09 | The system shall provide a lecturer dashboard to review assignment records, update assignment status, and monitor student progress. | Must | Lecturers need a centralized view of assignment management. |
 | FR-10 | The system shall validate required fields before saving an assignment. | Must | Prevent incomplete assignment entries. |
 | FR-11 | The system shall display confirmation or error messages after user actions. | Must | Students need feedback after adding or editing assignments. |
-| FR-12 | The system shall provide a dashboard summary showing total assignments, completed assignments, and upcoming deadlines. | Should | Students requested an overview of their workload. |
+| FR-12 | The system shall provide dashboard summaries including assignment statistics, completed assignments, upcoming deadlines, notifications, and course analytics. | Should | Students and lecturers requested an overview of assignment progress. |
 | FR-13 | The system shall maintain a consistent user interface across all pages. | Must | Better usability for students. |
 | FR-14 | The system shall support responsive layouts for desktop and mobile devices. | Should | Students often check assignments on mobile devices. |
 | FR-15 | The system shall collect only necessary user information and protect assignment data. | Must | Basic privacy and responsible data handling. |
